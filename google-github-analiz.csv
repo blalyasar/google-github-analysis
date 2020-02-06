@@ -1,0 +1,1679 @@
+,Unnamed: 0,isim,Aciklama,Dil,Star,Fork,Lisans
+0,0,iree,👻,C++,215,27,Apache-2.0
+1,1,gapid,Graphics API Debugger,Go,"1,497",256,Apache-2.0
+2,2,ggrc-core,GGRC Core,Python,487,339,Lisans yok
+3,3,ground-android,Ground mobile data collection app for Android,Java,77,37,Apache-2.0
+4,4,honggfuzz,"Security oriented fuzzer with powerful analysis options. Supports evolutionary, feedback-driven fuzzing based on code coverage (software- and hardware-based)",C,"1,766",371,Apache-2.0
+5,5,vkb,Build scripts to build many bits of Vulkan together in one place.,CMake,3,2,Apache-2.0
+6,6,it-cert-automation-practice,Google IT Automation with Python Professional Certificate - Practice files,Python,7,114,Apache-2.0
+7,7,boringssl,Mirror of BoringSSL,C,695,303,Lisans yok
+8,8,llvm-premerge-checks,CI system for premerge-testing in LLVM project,Python,14,2,Apache-2.0
+9,9,tf-quant-finance,High-performance TensorFlow library for quantitative finance.,Jupyter Notebook,857,133,Apache-2.0
+10,10,timesketch,Collaborative forensic timeline analysis,Python,"1,254",270,Apache-2.0
+11,11,keytransparency,A transparent and secure way to look up public keys.,Go,"1,481",139,Apache-2.0
+12,12,verible,"Verible provides a SystemVerilog parser, style-linter, and formatter.",C++,91,14,Apache-2.0
+13,13,earthenterprise,Google Earth Enterprise - Open Source,C++,"2,073",744,Apache-2.0
+14,14,model-viewer,Easily display interactive 3D models on the web and in AR!,TypeScript,"1,208",117,Apache-2.0
+15,15,graphicsfuzz,A testing framework for automatically finding and simplifying bugs in graphics shader compilers.,Java,355,54,Apache-2.0
+16,16,riscv-dv,SV/UVM based instruction generator for RISC-V processor verification,SystemVerilog,212,78,Apache-2.0
+17,17,syzkaller,syzkaller is an unsupervised coverage-guided kernel fuzzer,Go,"2,757",605,Apache-2.0
+18,18,marl,A hybrid thread / fiber task scheduler written in C++ 11,C++,441,32,Apache-2.0
+19,19,oss-fuzz,OSS-Fuzz - continuous fuzzing of open source software.,C,"4,964",884,Apache-2.0
+20,20,web-stories-wp,Web Stories WordPress plugin,JavaScript,8,2,Apache-2.0
+21,21,site-kit-wp,Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.,JavaScript,799,118,Apache-2.0
+22,22,jax,"Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",Python,"6,511",478,Lisans yok
+23,23,webpackager,Açıklama yok,Go,18,4,Apache-2.0
+24,24,built_value.dart,"Immutable value types, enum classes, and serialization.",Dart,540,99,BSD-3-Clause
+25,25,certificate-transparency-go,Auditing for TLS certificates (Go code),Go,208,90,Apache-2.0
+26,26,perfetto,"Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)",C++,41,2,Lisans yok
+27,27,gonids,"gonids is a library to parse IDS rules, with a focus primarily on Suricata rule compatibility. There is a discussion forum available that you can join on Google Groups: https://groups.google.com/forum/#!topic/gonids/",Go,73,23,Apache-2.0
+28,28,gapid-dev-releases,Açıklama yok,Dil yok,0,2,Lisans yok
+29,29,clusterfuzz,Scalable fuzzing infrastructure.,Python,"4,109",340,Apache-2.0
+30,30,postcss-rename,Replace class names based on a customizable renaming scheme.,Java,2,1,Apache-2.0
+31,31,shaka-player,JavaScript player library / DASH & HLS client / MSE-EME player,JavaScript,"3,663",679,Apache-2.0
+32,32,nftables,This package manipulates Linux nftables (the iptables successor),Go,474,41,Apache-2.0
+33,33,cpu_features,A cross platform C99 library to get cpu features at runtime.,C,"1,591",121,Apache-2.0
+34,34,or-tools,Google's Operations Research tools:,C++,"4,930","1,102",Apache-2.0
+35,35,skia,"Mirrored from
+            
+              https://skia.googlesource.com/skia",C++,"3,669",762,Lisans yok
+36,36,OpenSK,OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.,Rust,"1,289",75,Apache-2.0
+37,37,nomulus,Top-level domain name registry service on Google App Engine,Java,"1,376",174,Apache-2.0
+38,38,go-github,Go library for accessing the GitHub API,Go,"5,465","1,222",BSD-3-Clause
+39,39,knative-gcp,GCP event implementations to use with Knative Eventing.,Go,59,36,Apache-2.0
+40,40,playhvz,Açıklama yok,HTML,11,20,Apache-2.0
+41,41,edward2,A simple probabilistic programming language.,Jupyter Notebook,185,20,Apache-2.0
+42,42,WebFundamentals,Best practices for modern web development,HTML,"11,056","2,296",Apache-2.0
+43,43,j2cl-proto,Protocol Buffers implementation for J2CL,JavaScript,0,3,Apache-2.0
+44,44,earthengine-community,"Tutorials and content created by Earth Engine users, for Earth Engine users",JavaScript,40,33,Apache-2.0
+45,45,llvm-propeller,PROPELLER: Profile Guided Optimizing Large Scale LLVM-based Relinker,C++,61,6,Apache-2.0
+46,46,software-product-sprint,Açıklama yok,Java,4,7,Apache-2.0
+47,47,licensecheck,The licensecheck package classifies license files and heuristically determines how well they correspond to known open source licenses.,Go,157,16,Lisans yok
+48,48,mug,Açıklama yok,Java,156,28,Apache-2.0
+49,49,DirectXShaderCompiler,This repo hosts the source for the DirectX Shader Compiler which is based on LLVM/Clang.,C++,46,236,Lisans yok
+50,50,nginx-sxg-module,NGINX SXG extension,C,28,4,Apache-2.0
+51,51,qkeras,QKeras: a quantization deep learning library for Tensorflow Keras,Python,109,13,Apache-2.0
+52,52,filament,"Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL",C++,"8,477",622,Apache-2.0
+53,53,closure-library,Google's common JavaScript library,JavaScript,"3,452",898,Apache-2.0
+54,54,gvisor,Container Runtime Sandbox,Go,"9,513",648,Apache-2.0
+55,55,trax,Trax — your path to advanced deep learning,Jupyter Notebook,"1,672",126,Apache-2.0
+56,56,souper,A superoptimizer for LLVM IR,C++,"1,162",106,Apache-2.0
+57,57,cel-spec,Common Expression Language -- specification and binary representation,Go,286,38,Apache-2.0
+58,58,j2cl,Java to Closure JavaScript transpiler,Java,654,75,Apache-2.0
+59,59,XNNPACK,"High-efficiency floating-point neural network inference operators for mobile, server, and Web",C,306,31,Lisans yok
+60,60,applied-computing-series,Açıklama yok,Python,2,3,Apache-2.0
+61,61,new-project,This repository contains a template you can use to seed a repository for a new open source project.,Dil yok,96,67,Lisans yok
+62,62,libprotobuf-mutator,Library for structured fuzzing with protobuffers,C++,215,52,Apache-2.0
+63,63,docsy-example,An example documentation site using the Docsy Hugo theme,HTML,91,135,Apache-2.0
+64,64,docsy,A set of Hugo doc templates for launching open source content.,HTML,610,108,Apache-2.0
+65,65,dopamine,Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.,Jupyter Notebook,"8,651","1,143",Apache-2.0
+66,66,gulp-google-closure-deps,Gulp plugin for Google closure deps writer,JavaScript,2,4,Apache-2.0
+67,67,EarlGrey,🍵 iOS UI Automation Test Framework,Objective-C,"4,926",661,Apache-2.0
+68,68,flutter-desktop-embedding,"Examples of using, and testbed for, the in-development Flutter for Desktop",C++,"6,240",468,Apache-2.0
+69,69,gfbuild-swiftshader,A set of scripts for building SwiftShader for the GraphicsFuzz project,Shell,1,1,Apache-2.0
+70,70,gfbuild-amber,A set of scripts for building Amber for the GraphicsFuzz project,Shell,1,1,Apache-2.0
+71,71,gfbuild-SPIRV-Tools,A set of scripts for building SPIRV-Tools for the GraphicsFuzz project,Shell,1,3,Apache-2.0
+72,72,flatbuffers,FlatBuffers: Memory Efficient Serialization Library,C++,"13,774","2,170",Apache-2.0
+73,73,vulkan_test_applications,Açıklama yok,C++,28,27,Apache-2.0
+74,74,gfbuild-angle,A set of scripts for building ANGLE for the GraphicsFuzz project,Shell,1,1,Apache-2.0
+75,75,gfbuild-glslang,A set of scripts for building glslang for the GraphicsFuzz project,Shell,1,1,Apache-2.0
+76,76,cel-policy-templates-go,"Fast, templated, policy evaluation for networking, access, and admission control",Go,0,2,Apache-2.0
+77,77,flutter.widgets,Açıklama yok,Dart,264,33,BSD-3-Clause
+78,78,schedviz,A tool for gathering and visualizing kernel scheduling traces on Linux machines,Go,363,14,Apache-2.0
+79,79,error-prone,Catch common Java mistakes as compile-time errors,Java,"5,042",542,Apache-2.0
+80,80,data-transfer-project,"The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.",Java,"2,829",264,Apache-2.0
+81,81,ml-metadata,For recording and retrieving metadata associated with ML developer and data scientist workflows.,C++,117,24,Apache-2.0
+82,82,yapf,A formatter for Python files,Python,"10,193",697,Apache-2.0
+83,83,shaka-player-embedded,Shaka Player in a C++ Framework,C++,103,25,Lisans yok
+84,84,gts,"☂️ TypeScript style guide, formatter, and linter.",TypeScript,"2,212",91,Apache-2.0
+85,85,blockly-games,Games for tomorrow's programmers.,JavaScript,873,432,Apache-2.0
+86,86,truth,Fluent assertions for Java and Android,Java,"1,976",209,Apache-2.0
+87,87,devx-tools,Tools at Google for mobile development and testing,Go,29,13,Apache-2.0
+88,88,glazier,A tool for automating the installation of the Microsoft Windows operating system on various device platforms.,Python,998,70,Apache-2.0
+89,89,reftable,https://github.com/eclipse/jgit/blob/master/Documentation/technical/reftable.md,C,21,3,Lisans yok
+90,90,flogger,A Fluent Logging API for Java,Java,"1,141",85,Apache-2.0
+91,91,gerrit-linter,Açıklama yok,Go,18,3,Apache-2.0
+92,92,draco,Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.,C++,"3,267",524,Apache-2.0
+93,93,kotlin,The Kotlin Programming Language,Kotlin,25,"3,668","3,668"
+94,94,coding-with-chrome,An Open Source Educational IDE.,JavaScript,407,148,Lisans yok
+95,95,orchestra,Advertising Data Lakes and Workflow Automation,Python,21,16,Apache-2.0
+96,96,gofuzz,Fuzz testing for go.,Go,708,65,Apache-2.0
+97,97,cluster-data,Borg cluster traces from Google,TeX,315,109,Lisans yok
+98,98,guava,Google core libraries for Java,Java,"35,785","8,035",Apache-2.0
+99,99,gson,A Java serialization/deserialization library to convert Java Objects into JSON and back,Java,"17,261","3,389",Apache-2.0
+100,100,conscrypt,Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.,Java,684,134,Lisans yok
+101,101,bazel-common,Common functionality for Google's open-source libraries that are built with bazel.,Starlark,46,26,Apache-2.0
+102,102,turbine,Açıklama yok,Java,18,16,Apache-2.0
+103,103,splice,Splice enables Microsoft Active Directory domain joins from any network.,Go,12,4,Apache-2.0
+104,104,ghc-source-gen,Library for generating Haskell source files and code fragments.,Haskell,32,3,BSD-3-Clause
+105,105,empirical_calibration,Açıklama yok,Jupyter Notebook,12,5,Apache-2.0
+106,106,re2,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",C++,"4,463",661,Lisans yok
+107,107,mediapipe,MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines,C++,"4,490",789,Apache-2.0
+108,108,cloud-forensics-utils,Açıklama yok,Python,0,0,Apache-2.0
+109,109,kasan,"KernelAddressSanitizer, a fast memory error detector for the Linux kernel",C,204,55,Lisans yok
+110,110,jsonapi,jsonapi.org style payload serializer and deserializer,Go,"1,033",174,MIT
+111,111,inject.dart,Compile-time dependency injection for Dart and Flutter,Dart,632,113,MIT
+112,112,monologue,A monitor that checks that Certificate Transparency Logs are complying with RFC 6962 and the Chromium Certificate Transparency Log Policy.,Go,34,11,Apache-2.0
+113,113,google-ctf,Google CTF,Go,"1,494",217,Apache-2.0
+114,114,ExoPlayer,An extensible media player for Android,Java,"14,858","4,476",Apache-2.0
+115,115,shaka-streamer,"A simple config-file based approach to preparing streaming media, based on FFmpeg and Shaka Packager.",Python,57,6,Apache-2.0
+116,116,blockly,The web-based visual programming editor.,JavaScript,"7,322","2,556",Apache-2.0
+117,117,code-prettify,An embeddable script that makes source-code snippets in HTML prettier.,JavaScript,"5,205",864,Apache-2.0
+118,118,DOM-Tutorials,"Interactive tutorials on using basic DOM APIs. Part of Google's ""Intro to JavaScript"" course for engineers.",HTML,0,0,Apache-2.0
+119,119,UIforETW,User interface for recording and managing ETW traces,C++,883,115,Apache-2.0
+120,120,neural-tangents,Fast and Easy Infinite Neural Networks in Python,Jupyter Notebook,419,50,Lisans yok
+121,121,webbundle,WebBundle library for packing web sites,Rust,14,2,Apache-2.0
+122,122,ideal,Experimental metaprogramming framework,Java,17,12,BSD-3-Clause
+123,123,ground-platform,"Ground hosted components: Web console, Cloud Functions, db config",JavaScript,33,30,Apache-2.0
+124,124,sagetv,SageTV is a cross-platform networked DVR and media management system,Java,228,167,Apache-2.0
+125,125,closure-compiler,A JavaScript checker and optimizer.,Java,"5,316",970,Apache-2.0
+126,126,amber,Amber is a multi-API shader test framework,C++,85,28,Apache-2.0
+127,127,googet,GooGet package manager,Go,53,22,Apache-2.0
+128,128,neuroglancer,WebGL-based viewer for volumetric data,TypeScript,468,150,Apache-2.0
+129,129,tink,"Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",Java,"8,927",736,Apache-2.0
+130,130,starthinker,Framework for building data workflows provided by Google.,Python,41,15,Apache-2.0
+131,131,flutter.plugins,Açıklama yok,Dart,44,20,Lisans yok
+132,132,fonts,Font files available from Google Fonts,HTML,"12,995","2,042","2,042"
+133,133,pwlfit,Açıklama yok,Python,0,4,Apache-2.0
+134,134,nucleus,Python and C++ code for reading and writing genomics data.,C++,553,79,Apache-2.0
+135,135,sprockets,Sprockets is a framework for conformance testing based on state transitions.,Python,6,12,Apache-2.0
+136,136,chartjs.dart,Dart API for Chart.js,Dart,91,38,Lisans yok
+137,137,rust_icu,rust_icu: rust bindings for ICU (International Components for Unicode) library,Rust,22,3,Apache-2.0
+138,138,eDistantObject,"eDistantObject (eDO), a remote invocation library for iOS",Objective-C,64,19,Apache-2.0
+139,139,shaderc,"A collection of tools, libraries, and tests for Vulkan shader compilation.",C++,776,157,Apache-2.0
+140,140,gsocguides,Google Summer of Code Mentor and Student Guides,CSS,159,82,Lisans yok
+141,141,dagger,A fast dependency injector for Android and Java.,Java,"14,733","2,874",Apache-2.0
+142,142,TensorNetwork,A library for easy and efficient manipulation of tensor networks.,Python,"1,136",204,Apache-2.0
+143,143,googletest,Googletest - Google Testing and Mocking Framework,C++,"14,360","5,703",BSD-3-Clause
+144,144,oboe,Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.,C++,"1,776",235,Apache-2.0
+145,145,transitfeed,"A Python library for reading, validating, and writing transit schedule information in the GTFS format.",Python,549,210,Apache-2.0
+146,146,starlark-go,"Starlark in Go: the Starlark configuration language, implemented in Go",Go,842,52,BSD-3-Clause
+147,147,oatts,Açıklama yok,JavaScript,79,29,Apache-2.0
+148,148,bundletool,Bundletool is a command-line tool to manipulate Android App Bundles,Java,"1,498",142,Apache-2.0
+149,149,talkback,Açıklama yok,Java,205,122,Apache-2.0
+150,150,fleetspeak,Açıklama yok,Go,80,21,Apache-2.0
+151,151,trillian,"A transparent, highly scalable and cryptographically verifiable data store.",Go,"2,033",234,Apache-2.0
+152,152,binnavi,"BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.",Java,"2,577",449,Apache-2.0
+153,153,night-sight,This is a github to host the webpage for: Handheld Mobile Photography in Very Low Light,Dil yok,31,4,Lisans yok
+154,154,android-cuttlefish,Açıklama yok,C,54,17,Apache-2.0
+155,155,ctfscoreboard,Scoreboard for Capture The Flag competitions.,Python,130,50,Apache-2.0
+156,156,cadvisor,Analyzes resource usage and performance characteristics of running containers.,Go,"10,192","1,492","1,492"
+157,157,rerast,A tool for transforming Rust code using rules,Rust,622,24,Apache-2.0
+158,158,transit,Açıklama yok,Dil yok,207,93,Lisans yok
+159,159,go-jsonnet,Açıklama yok,Go,608,88,Apache-2.0
+160,160,jsonnet,Jsonnet - The data templating language,Jsonnet,"3,797",290,Apache-2.0
+161,161,argh,Rust derive-based argument parsing optimized for code size,Rust,330,6,BSD-3-Clause
+162,162,turbinia,Automation and Scaling of Digital Forensics Tools,Python,338,90,Apache-2.0
+163,163,allied-oscillators,Açıklama yok,JavaScript,0,2,Apache-2.0
+164,164,shaka-packager,"A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.",C++,825,242,Lisans yok
+165,165,AFL,american fuzzy lop - a security-oriented fuzzer,C,831,106,Apache-2.0
+166,166,hprof-parser,Açıklama yok,Go,8,1,Apache-2.0
+167,167,rust-async-coap,"A flexible, asynchronous library for using and serving CoAP resources in Rust.",Rust,11,5,Apache-2.0
+168,168,riegeli,"Riegeli/records is a file format for storing a sequence of string records, typically serialized protocol buffers.",C++,192,23,Apache-2.0
+169,169,volley,Açıklama yok,Java,"2,623",637,Apache-2.0
+170,170,localized-narratives,Localized Narratives,HTML,0,0,Apache-2.0
+171,171,compile-testing,Testing tools for javac and annotation processors,Java,516,104,Apache-2.0
+172,172,pageloader,A framework for creating page objects for in-browser or WebDriver tests.,Dart,35,46,Apache-2.0
+173,173,j2objc,A Java to iOS Objective-C translation tool and runtime.,Java,"5,589",795,Apache-2.0
+174,174,blockly-samples,Sample projects demonstrating how to integrate Blockly into your project,JavaScript,45,15,Apache-2.0
+175,175,alertmanager-irc-relay,Send Prometheus Alerts to IRC using Webhooks,Go,21,7,Apache-2.0
+176,176,bongo,Açıklama yok,Rust,6,3,Apache-2.0
+177,177,memcpy-gemm,Açıklama yok,C++,1,1,Apache-2.0
+178,178,cel-go,"Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)",Go,363,55,Apache-2.0
+179,179,go-cloud,The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.,Go,"6,803",511,Apache-2.0
+180,180,copybara,Copybara: A tool for transforming and moving code between repositories.,Java,749,127,Apache-2.0
+181,181,restor,Restor is a user-friendly application to (mass) image macOS computers from a single source,Objective-C,218,27,Apache-2.0
+182,182,go-containerregistry,Go library and CLIs for working with container registries,Go,574,130,Apache-2.0
+183,183,synthmark,"Audio performance benchmark for jitter, theoretical latency, etc.",C++,26,15,Apache-2.0
+184,184,gtm-session-fetcher,Google Toolbox for Mac - Session Fetcher,Objective-C,121,101,Apache-2.0
+185,185,chatbase-node,Quickly integrate your Node.js chatbot with Chatbase Analytics,JavaScript,68,24,Apache-2.0
+186,186,binexport,Export disassemblies into Protocol Buffers and to BinNavi databases,C++,388,112,Apache-2.0
+187,187,sandboxed-api,Sandboxed API automatically generates sandboxes for C/C++ libraries,C++,"1,117",106,Apache-2.0
+188,188,benchmark,A microbenchmark support library,C++,"4,069",772,Apache-2.0
+189,189,gvisor-website,The gVisor project website.,HTML,12,22,Apache-2.0
+190,190,pack-n-play,🚀🐢 A tool to validate your library can be consumed by other TypeScript projects.,TypeScript,26,6,Apache-2.0
+191,191,cargo-raze,Generate Bazel BUILD from Cargo dependencies!,Rust,166,31,Apache-2.0
+192,192,fhir,FHIR Protocol Buffers,C++,390,92,Apache-2.0
+193,193,wikiloop-battlefield,WikiLoop Battlefield: fight vandalism on Wikipedia together,JavaScript,29,11,Apache-2.0
+194,194,kunit-docs,Açıklama yok,HTML,20,6,Apache-2.0
+195,195,blockly-experimental,Açıklama yok,JavaScript,1,4,Apache-2.0
+196,196,gfbuild-graphicsfuzz,A set of scripts for building GraphicsFuzz,Shell,1,1,Apache-2.0
+197,197,go-attestation,Açıklama yok,Go,74,14,Apache-2.0
+198,198,cloudprober,An active monitoring software to detect failures before your customers do.,Go,"1,033",107,Apache-2.0
+199,199,asylo-site,Asylo Website,HTML,18,13,Apache-2.0
+200,200,zetasql,ZetaSQL - Analyzer Framework for SQL,C++,"1,169",67,Apache-2.0
+201,201,vim-codefmt,Açıklama yok,Vim script,723,75,Apache-2.0
+202,202,swift-jupyter,Açıklama yok,Python,397,66,Apache-2.0
+203,203,android-emulator-container-scripts,Açıklama yok,Python,481,42,Apache-2.0
+204,204,js-green-licenses,JavaScript package.json License Checker,TypeScript,78,19,Apache-2.0
+205,205,self-published-geo,Açıklama yok,Makefile,8,6,CC-BY-4.0
+206,206,gopacket,Provides packet processing capabilities for Go,Go,"3,231",628,Lisans yok
+207,207,charts,Açıklama yok,Dart,"1,365",319,Apache-2.0
+208,208,go-tpm,Açıklama yok,Go,239,83,Apache-2.0
+209,209,ml-fairness-gym,Açıklama yok,Python,45,8,Apache-2.0
+210,210,GiftStick,1-Click push forensics evidence to the cloud,Python,82,16,Apache-2.0
+211,211,evcxr,Açıklama yok,Rust,"1,159",61,Apache-2.0
+212,212,fscrypt,Go tool for managing Linux filesystem encryption,Go,394,46,Apache-2.0
+213,213,visqol,Açıklama yok,C++,0,2,Apache-2.0
+214,214,blueprint,Açıklama yok,Go,296,66,Apache-2.0
+215,215,csp-evaluator,Açıklama yok,JavaScript,113,22,Apache-2.0
+216,216,pprof-nodejs,pprof support for Node.js,JavaScript,48,7,Apache-2.0
+217,217,addlicense,A program which ensures source code files have copyright license headers by scanning directory patterns recursively,Go,175,48,Apache-2.0
+218,218,openhtf,The open-source hardware testing framework.,Python,234,111,Apache-2.0
+219,219,region-flags,Collection of flags for BCP 47 region codes in SVG / PNG,HTML,139,66,Lisans yok
+220,220,eventid-js,"Monotonically increasing per machine, globally unique eventids for JavaScript",TypeScript,44,20,Apache-2.0
+221,221,google-toolbox-for-mac,Google Toolbox for Mac,Objective-C,849,192,Apache-2.0
+222,222,clspv,Clspv is a prototype compiler for a subset of OpenCL C to Vulkan compute shaders,C,280,45,Apache-2.0
+223,223,jwt_verify_lib,Açıklama yok,C++,18,16,Apache-2.0
+224,224,asylo,An open and flexible framework for developing enclave applications,C++,680,98,Apache-2.0
+225,225,earthengine-api,Python and JavaScript bindings for calling the Earth Engine API.,JavaScript,898,458,Apache-2.0
+226,226,webrisk,Açıklama yok,Go,13,6,Apache-2.0
+227,227,escapevelocity,A subset reimplementation of Apache Velocity with a much simpler API.,Java,15,4,Apache-2.0
+228,228,starlark-rust,Starlark (https://github.com/bazelbuild/starlark) in Rust,Starlark,118,22,Apache-2.0
+229,229,closure-compiler-npm,Package for managing and documenting closure-compiler for use via npm,JavaScript,251,55,Apache-2.0
+230,230,modem,Açıklama yok,Python,0,6,Apache-2.0
+231,231,libphonenumber,"Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",C++,"10,346","1,349","1,349"
+232,232,mtail,extract whitebox monitoring data from application logs for collection in a timeseries database,Go,"2,279",239,Apache-2.0
+233,233,nsscache,asynchronously synchronise local NSS databases with remote directory services,Python,91,47,GPL-2.0
+234,234,mechahamster,Mecha Hamster is a game where you roll through customizable environments that you can share with your friends.,C#,228,86,Apache-2.0
+235,235,go-tpm-tools,Go packages built on go-tpm providing a high-level API for using TPMs,C,26,12,Apache-2.0
+236,236,pytype,A static type analyzer for Python code,Python,"2,452",132,Lisans yok
+237,237,android-uiconductor,Açıklama yok,Java,53,17,Apache-2.0
+238,238,driblet,Açıklama yok,Python,14,3,Apache-2.0
+239,239,next-prediction,"Code and model for ""Peeking into the Future: Predicting Future Person Activities and Locations in Videos"", Liang et al, CVPR 2019",Python,176,51,Apache-2.0
+240,240,mentornet,Code for MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks,Python,184,39,Apache-2.0
+241,241,patents-public-data,Patent analysis using the Google Patents Public Datasets on BigQuery,Jupyter Notebook,169,75,Apache-2.0
+242,242,styleguide,Style guides for Google-originated open-source projects,HTML,"23,261","8,362",Apache-2.0
+243,243,python-fire,Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.,Python,"16,230",993,Lisans yok
+244,244,packetdrill,The official Google release of packetdrill,C,346,109,GPL-2.0
+245,245,go-dap,Go implementation of the Debug Adapter Protocol,Go,5,1,Apache-2.0
+246,246,pyaedj,Açıklama yok,Python,4,4,Apache-2.0
+247,247,cmockery,A lightweight library to simplify and generalize the process of writing unit tests for C applications.,Shell,561,253,Apache-2.0
+248,248,eng-practices,Google's Engineering Practices documentation,Dil yok,"12,243","1,067",Lisans yok
+249,249,typedoc-neo-theme,Açıklama yok,JavaScript,26,8,Apache-2.0
+250,250,inverting-proxy,Reverse proxy that inverts the direction of traffic,Go,88,31,Apache-2.0
+251,251,OctoPrint-LEDStripControl,OctoPrint plugin that intercepts M150 GCode commands and controls local GPIOs connected to LEDs.,Python,45,34,Apache-2.0
+252,252,zoekt,Fast trigram based code search,Go,956,84,Apache-2.0
+253,253,ko,Build and deploy Go applications on Kubernetes,Go,"1,594",93,Apache-2.0
+254,254,weasel,A simple frontend (App Engine app) that serves content from a Google Cloud Storage (GCS) bucket,Go,55,15,Apache-2.0
+255,255,google-api-objectivec-client-for-rest,Google APIs Client Library for Objective-C for REST,Objective-C,419,215,Apache-2.0
+256,256,play-services-plugins,Plugins to help with using Google Play services SDK.,Java,224,63,Apache-2.0
+257,257,wire,Compile-time Dependency Injection for Go,Go,"3,137",142,Apache-2.0
+258,258,cppdap,C++ library for the Debug Adapter Protocol,C++,14,3,Apache-2.0
+259,259,brunsli,Practical JPEG Repacker,C++,69,15,MIT
+260,260,fswalker,Simple file system integrity checking tooling.,Go,59,4,Apache-2.0
+261,261,airdialogue,Açıklama yok,Python,6,1,Apache-2.0
+262,262,dart_cli_pkg,A set of Grinder tasks that make it easy to release a Dart command-line application,Dart,5,4,Apache-2.0
+263,263,airdialogue_model,Açıklama yok,Python,6,4,Apache-2.0
+264,264,deepvariant,DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.,Python,"1,872",467,BSD-3-Clause
+265,265,rekall,Rekall Memory Forensic Framework,Python,"1,539",335,GPL-2.0
+266,266,wuffs,Wrangling Untrusted File Formats Safely,C,"1,774",61,Apache-2.0
+267,267,seq2seq,A general-purpose encoder-decoder framework for Tensorflow,Python,"5,088","1,210",Apache-2.0
+268,268,OctoPrint-TemperatureFailsafe,OctoPrint plugin that will execute shell commands if a heater exceeds a failsafe threshold.,Python,14,16,Apache-2.0
+269,269,OctoPrint-HeaterTimeout,OctoPrint Plugin that automatically shuts down heaters after a specified idle timeout.,Python,9,7,Apache-2.0
+270,270,chronicle,Açıklama yok,Dil yok,0,0,Lisans yok
+271,271,crmint,Reliable data integration & processing for advertisers,Python,71,39,Apache-2.0
+272,272,ruy,Açıklama yok,0,0,0,Lisans yok
+273,273,stenographer,"Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. Discussion/announcements at stenographer@googlegroups.com",Go,"1,450",173,Apache-2.0
+274,274,gitiles,A simple browser for Git repositories.,Java,348,124,Apache-2.0
+275,275,apitools,Açıklama yok,Python,118,100,Apache-2.0
+276,276,double-conversion,Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.,C++,687,170,BSD-3-Clause
+277,277,hrepl,Interactive development for Bazel/Haskell rules,Haskell,30,1,Apache-2.0
+278,278,bamboo-soy,An intellij plugin supporting Closure Template language (Soy),Java,28,17,Apache-2.0
+279,279,nsjail,"A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)",C++,"1,427",170,Apache-2.0
+280,280,tirg,"deep learning, image retrieval, vision and language",Python,85,15,Apache-2.0
+281,281,meterstick,A concise syntax to describe and execute routine data analysis tasks,Python,54,9,Apache-2.0
+282,282,gin-config,Gin provides a lightweight configuration framework for Python,Python,713,45,Apache-2.0
+283,283,minijail,"Mirrored from
+            
+              https://android.googlesource.com/platform/external/minijail",Dil yok,25,7,Lisans yok
+284,284,jax-md,"Differentiable, Hardware Accelerated, Molecular Dynamics",Jupyter Notebook,147,16,Lisans yok
+285,285,rejoiner,Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources,Java,"2,790",118,Apache-2.0
+286,286,gemmlowp,Low-precision matrix multiplication,C++,"1,162",342,Apache-2.0
+287,287,code-review-bot,Code review bot and CLA verifier,Go,58,14,Apache-2.0
+288,288,pasta,Library to refactor python code through AST manipulation.,Python,187,27,Apache-2.0
+289,289,aukera,Aukera is a tool for managing computer maintenance windows.,Go,8,2,Apache-2.0
+290,290,material-design-icons,Material Design icons by Google,CSS,"39,619","8,142",Apache-2.0
+291,291,snappy,A fast compressor/decompressor,C++,"3,921",682,Lisans yok
+292,292,GTXiLib,Google Toolbox for Accessibility for iOS,Objective-C,158,19,Apache-2.0
+293,293,protobuf-gradle-plugin,Protobuf Plugin for Gradle,Groovy,922,161,Lisans yok
+294,294,alligator2,A sample integration between the Google My Business API and the Cloud Natural Language API,Python,0,1,Apache-2.0
+295,295,swift,The Swift Programming Language,Dil yok,825,"8,165",Lisans yok
+296,296,ci_edit,A terminal text editor with mouse support and ctrl+Q to quit.,Python,155,49,Apache-2.0
+297,297,chicago-brick,Software that displays content on a multi-node video wall.,JavaScript,121,28,Apache-2.0
+298,298,pcbdl,PCB Design Language: A programming way to design schematics.,Python,40,2,Lisans yok
+299,299,gfbuild-llpc,A set of scripts for building LLPC for the GraphicsFuzz project,Shell,1,1,Apache-2.0
+300,300,cctz,CCTZ is a C++ library for translating between absolute and civil times using the rules of a time zone.,C++,392,110,Apache-2.0
+301,301,omaha,Google Update for Windows,C++,"1,022",403,Apache-2.0
+302,302,mawfs,Açıklama yok,Go,51,15,Apache-2.0
+303,303,google-authenticator-libpam,Açıklama yok,C,900,177,Apache-2.0
+304,304,angle,"Mirrored from
+            
+              https://chromium.googlesource.com/angle/angle",C++,"1,548",325,Lisans yok
+305,305,ngx_brotli,NGINX module for Brotli compression,C,"1,185",113,BSD-2-Clause
+306,306,tcli,Açıklama yok,Python,4,1,Apache-2.0
+307,307,segment,Açıklama yok,Go,4,1,Apache-2.0
+308,308,tock-on-titan,Ports of Tock OS to Titan chips.,Rust,26,8,Apache-2.0
+309,309,closure-stylesheets,"A CSS+ transpiler that lints, optimizes, and I18n-izes",Java,285,62,Apache-2.0
+310,310,GTMAppAuth,"OAuth and OpenID Connect client for iOS, macOS, and tvOS, for use with Google libraries.",Objective-C,182,139,Apache-2.0
+311,311,python-fanotify,Python bindings for Linux's fanotify API,C,40,15,Apache-2.0
+312,312,schema-dts,JSON-LD TypeScript types for Schema.org vocabulary,TypeScript,201,11,Apache-2.0
+313,313,subcommands,Go subcommand library.,Go,473,40,Apache-2.0
+314,314,flexbox-layout,Flexbox for Android,Kotlin,"15,144","1,594",Apache-2.0
+315,315,tflow2,This software is currently maintained at https://github.com/taktv6/tflow2,Go,35,17,Apache-2.0
+316,316,grafika,Grafika test app,Java,"4,262","1,065",Apache-2.0
+317,317,asylo-examples,Açıklama yok,C++,9,5,Apache-2.0
+318,318,palette.js,"Script for generating colour palettes for use with graphs, charts and cartography.",JavaScript,503,86,Lisans yok
+319,319,gops,A tool to list and diagnose Go processes currently running on your system,Go,"3,622",215,BSD-3-Clause
+320,320,mako,Mako - A performance testing library and service,C++,25,5,Apache-2.0
+321,321,vroom,Launch vim tests,Python,243,25,Apache-2.0
+322,322,haskell-indexer,Emits code crossreference data for Haskell sources.,Haskell,89,25,Apache-2.0
+323,323,trillian-examples,A place to store some examples which use Trillian APIs to build things.,Go,42,27,Apache-2.0
+324,324,budou,"Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).",Python,901,55,Apache-2.0
+325,325,clasp,🔗 Command Line Apps Script Projects,TypeScript,"2,059",200,Apache-2.0
+326,326,codeworld,Educational computer programming environment using Haskell,Haskell,"1,037",175,Apache-2.0
+327,327,certificate-transparency-java,"Auditing for TLS certificates, Java code.",Java,28,30,Apache-2.0
+328,328,badwolf,Temporal graph store abstraction layer.,Go,881,64,Apache-2.0
+329,329,mundane,"Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).",Rust,385,18,MIT
+330,330,nixery,Container registry which transparently builds images using the Nix package manager,Go,687,23,Apache-2.0
+331,331,vulncode-db,Vulncode-DB project,Python,451,49,Apache-2.0
+332,332,vxsig,Automatically generate AV byte signatures from sets of similar binaries.,C++,105,15,Apache-2.0
+333,333,eidos-audition,Collection of auditory models.,C++,4,1,GPL-3.0
+334,334,safeside,Understand and mitigate software-observable side-channels,C,350,26,Apache-2.0
+335,335,zetasketch,"A collection of libraries for single-pass, distributed, sublinear-space approximate aggregation and sketching algorithms. Currently: HyperLogLog++; more to come.",Java,63,9,Apache-2.0
+336,336,built_collection.dart,Immutable Dart collections via the builder pattern.,Dart,169,37,BSD-3-Clause
+337,337,glog,C++ implementation of the Google logging module,C++,"3,570","1,389","1,389"
+338,338,textfsm,Python module for parsing semi-structured text into python tables.,Python,666,108,Apache-2.0
+339,339,sa360-webquery-bigquery,Açıklama yok,Java,0,0,Apache-2.0
+340,340,sanitizers,"AddressSanitizer, ThreadSanitizer, MemorySanitizer",Python,"4,787",524,Apache-2.0
+341,341,libnss-cache,"a NSS module for reading directory service information for Linux hosts from an indexed, local disk cache",C,34,20,LGPL-3.0
+342,342,auto,A collection of source code generators for Java.,Java,"8,418",975,Apache-2.0
+343,343,cloud-print-connector,Google Cloud Print Connector,Go,702,175,BSD-3-Clause
+344,344,nogotofail,An on-path blackbox network traffic security testing tool,Python,"2,543",359,Apache-2.0
+345,345,gumbo-parser,An HTML5 parsing library in pure C99,HTML,"4,644",631,Apache-2.0
+346,346,sentencepiece,Unsupervised text tokenizer for Neural Network-based text generation.,C++,"3,610",445,Apache-2.0
+347,347,xsecurelock,X11 screen lock utility with security in mind,C,437,44,Apache-2.0
+348,348,spatial-media,Specifications and tools for 360º video and spatial audio.,Python,"1,029",286,Lisans yok
+349,349,automl-video-ondevice,Açıklama yok,Python,9,5,Apache-2.0
+350,350,certificate-maker,An experimental tool for turning HTML templates into PDF files.,JavaScript,76,16,Apache-2.0
+351,351,cyanobyte,Machine-readable datasheets,C++,16,18,Apache-2.0
+352,352,zopfli,"Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.",C++,"2,695",262,Apache-2.0
+353,353,google-api-javascript-client,"Google APIs Client Library for browser JavaScript, aka gapi.",CSS,"1,122",577,Apache-2.0
+354,354,creative-screenshots,Açıklama yok,TypeScript,4,2,Apache-2.0
+355,355,box2d.dart,A Dart port of Java's Box2D libraries.,Dart,85,32,BSD-3-Clause
+356,356,der-ascii,A reversible DER and BER pretty-printer.,Go,158,23,Apache-2.0
+357,357,mobly-bundled-snippets,Snippets to allow Mobly tests to control Android devices by exposing a simplified Android API.,Java,21,25,Apache-2.0
+358,358,diff-match-patch,Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.,Python,"2,764",486,Apache-2.0
+359,359,leveldb,LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.,C++,"19,851","4,665",BSD-3-Clause
+360,360,mobly,E2E test framework for tests with complex environment requirements.,Python,348,88,Apache-2.0
+361,361,java-monitoring-client-library,A java idiomatic monitoring client for collecting metrics,Java,40,23,Apache-2.0
+362,362,dart-neats,neat dart packages.,Dart,56,9,Apache-2.0
+363,363,libsxg,Signed HTTP Exchange library,C,34,8,Apache-2.0
+364,364,cortex-demos,Cortex-M Operating System that focuses heavily on testability,C++,3,5,Apache-2.0
+365,365,note-maps,A personal knowledge base designed for use on mobile devices.,Go,24,4,Apache-2.0
+366,366,peoplemath,Web application for team planning,TypeScript,28,6,Apache-2.0
+367,367,eslint-config-google,ESLint shareable config for the Google JavaScript style guide,JavaScript,"1,230",123,Apache-2.0
+368,368,santa,A binary whitelisting/blacklisting system for macOS,Objective-C,"3,016",206,Apache-2.0
+369,369,libaddressinput,"Google’s postal address library, powering Android and Chromium",C++,430,82,Apache-2.0
+370,370,AppSpeedIndex,Açıklama yok,Python,9,7,Lisans yok
+371,371,ijaas,Make IntelliJ as a Java server that does autocompletion for Vim.,Java,420,20,Apache-2.0
+372,372,copr-sundry,Collection of rpm spec files for various packages.,Python,10,13,Apache-2.0
+373,373,unsmear,Converts to and from timescales with smeared leap seconds,C++,33,4,Apache-2.0
+374,374,go-pbmoney,Go utilities for google/type/money.proto,Go,18,2,Apache-2.0
+375,375,sling,SLING - A natural language frame semantics parser,C++,"1,810",276,Apache-2.0
+376,376,prefab,Prefab is a tool for generating build system integrations for prebuilt C/C++ libraries.,Kotlin,20,1,Apache-2.0
+377,377,shaderc-rs,Rust bindings for the shaderc library.,Rust,89,28,Apache-2.0
+378,378,usd_from_gltf,Açıklama yok,C++,88,13,Apache-2.0
+379,379,vogon,Scalable customization of video campaigns,JavaScript,90,37,Apache-2.0
+380,380,containerregistry,A set of Python libraries and tools for interacting with a Docker Registry.,Python,142,106,Apache-2.0
+381,381,coursebuilder-core,Açıklama yok,Python,117,104,Lisans yok
+382,382,openrtb-doubleclick,"Utilities for DoubleClick Ad Exchange, including OpenRTB mapping, DoubleClick cryptography, metadata and validation",Java,181,77,Apache-2.0
+383,383,openrtb,OpenRTB model for Java and other languages via protobuf; Helper OpenRTB libraries for Java including JSON serialization,Java,344,155,Apache-2.0
+384,384,kmsan,"KernelMemorySanitizer, a detector of uses of uninitialized memory in the Linux kernel",C,220,45,Lisans yok
+385,385,kati,An experimental GNU make clone,C++,557,70,Apache-2.0
+386,386,vim-jsonnet,Jsonnet filetype plugin for Vim.,Vim script,83,19,Apache-2.0
+387,387,seesaw,Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.,Go,"4,945",469,Apache-2.0
+388,388,martian,Martian is a library for building custom HTTP/S proxies,Go,"1,266",151,Apache-2.0
+389,389,path-auditor,Açıklama yok,C++,235,34,Apache-2.0
+390,390,licenseclassifier,A License Classifier,Go,136,29,Lisans yok
+391,391,git-rebaser,Açıklama yok,Python,0,4,Apache-2.0
+392,392,kf,Feels like Cloud Foundry. Runs on Kubernetes.,Go,311,38,Apache-2.0
+393,393,election_results_xml_validator,Açıklama yok,Python,17,22,Apache-2.0
+394,394,highway,Performance-portable SIMD with runtime dispatch,C++,157,7,Apache-2.0
+395,395,open-location-code,"Open Location Code is a library to generate short codes, called ""plus codes"", that can be used as digital addresses where street addresses don't exist.",Java,"2,996",351,Apache-2.0
+396,396,hover,A floating menu library for Android.,Java,"2,554",280,Apache-2.0
+397,397,go-cmp,Package for comparing Go values in tests,Go,"1,500",87,BSD-3-Clause
+398,398,google-java-format,Reformats Java source code to comply with Google Java Style.,Java,"3,089",532,Apache-2.0
+399,399,vector_math.dart,A vector math package for 2D and 3D applications,Dart,140,58,BSD-3-Clause
+400,400,codemirror.dart,A Dart wrapper around the CodeMirror text editor.,Dart,43,28,BSD-3-Clause
+401,401,eme-encryption-scheme-polyfill,A polyfill to add support for EncryptionScheme queries in EME and MediaCapabilities.,JavaScript,1,2,Apache-2.0
+402,402,allocation-instrumenter,A Java agent that rewrites bytecode to instrument allocation sites,Java,369,71,Apache-2.0
+403,403,caliper,Micro-benchmarking library for Java,Java,636,99,Apache-2.0
+404,404,EXEgesis,Açıklama yok,C++,221,27,Apache-2.0
+405,405,network-mapper,Açıklama yok,Python,46,24,Apache-2.0
+406,406,recaptcha,"PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.",PHP,"2,693",698,BSD-3-Clause
+407,407,periph,Go·Hardware·Lean,Go,"1,409",143,Apache-2.0
+408,408,perf_data_converter,Tool to convert Linux perf files to the profile.proto format used by pprof,C++,132,31,BSD-3-Clause
+409,409,vulkan-pre-rotation-demo,Handle Vulkan pre-rotation properly on Android,C++,0,0,Apache-2.0
+410,410,basis_universal,Basis Universal GPU Texture Codec - please make contributions upstream at BinomialLLC,C++,0,77,Apache-2.0
+411,411,smbios-validation-tool,Açıklama yok,Dil yok,0,0,Lisans yok
+412,412,xctestrunner,A executable binary to run prebuilt iOS tests on iOS simulator/real device.,Python,50,27,Apache-2.0
+413,413,rpmpack,rpmpack (tar2rpm) - package rpms in pure golang or cli,Go,37,12,Apache-2.0
+414,414,quiver-dart,A set of utility libraries for Dart,Dart,500,116,Lisans yok
+415,415,bulkan,Açıklama yok,TypeScript,1,1,Lisans yok
+416,416,fuzzer-test-suite,Set of tests for fuzzing engines,C,"1,031",239,Apache-2.0
+417,417,lintush,Interactive CLI for conventional commit messages 🦄,JavaScript,19,2,Apache-2.0
+418,418,file.dart,A generic file system abstraction for Dart.,Dart,51,28,BSD-3-Clause
+419,419,web-starter-kit,Web Starter Kit - a workflow for multi-device websites,HTML,"18,589","3,224",Apache-2.0
+420,420,zazu,Açıklama yok,TypeScript,13,11,Apache-2.0
+421,421,node-fastify-auto-push,Fastify plugin for HTTP/2 automatic server push,TypeScript,85,10,Lisans yok
+422,422,node-h2-auto-push,HTTP/2 automatic server push,TypeScript,301,16,Apache-2.0
+423,423,nodejs-container-image-builder,a container registry client and image builder with support for protocol version 2 and no docker dependency,TypeScript,25,7,Apache-2.0
+424,424,python-lakeside,Açıklama yok,Python,30,16,Apache-2.0
+425,425,personfinder,Person Finder is a searchable missing person database written in Python and hosted on App Engine.,Python,431,199,Apache-2.0
+426,426,coding-with-chrome-libraries,General-purpose library and robotics framwork used by Coding with Chrome.,JavaScript,11,8,Apache-2.0
+427,427,closure-builder,NPM based Closure build system to easily compile Soy template files together with Closure JavaScript files without the need to configure anything.,JavaScript,61,24,Apache-2.0
+428,428,lisp-koans,"Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others. It is a port of the prior koans with some modifications to highlight lisp-specific features. Structured as ordered groups of broken unit tests, the project guides the learner progressively through many Common Lisp language features.",Common Lisp,"2,378",484,Apache-2.0
+429,429,CausalImpact,An R package for causal inference in time series,R,"1,057",179,Apache-2.0
+430,430,jsinterop-generator,Generates Java annotated with JsInterop from JavaScript extern sources,Java,56,24,Apache-2.0
+431,431,jsinterop-base,Utilities for GWT and J2CL to interact with JavaScript beyond JsInterop,Java,52,11,Apache-2.0
+432,432,grumpy,Grumpy is a Python to Go source code transcompiler and runtime.,Go,"9,948",632,Apache-2.0
+433,433,x509test,X.509 certificate test suite,Python,28,13,Apache-2.0
+434,434,re2j,linear time regular expression matching in Java,Java,840,124,Lisans yok
+435,435,dspl,Schema and utilities for Google Dataset Publishing Language,Python,17,28,BSD-3-Clause
+436,436,go-metrics-stackdriver,This library provides a stackdriver sink for applications instrumented with the go-metrics library,Go,9,1,Apache-2.0
+437,437,fhir-examples,Usage Examples for github.com/google/fhir,C++,10,2,Apache-2.0
+438,438,fruit,"Fruit, a dependency injection framework for C++",Python,"1,314",166,Apache-2.0
+439,439,archive-patcher,Automatically exported from code.google.com/p/archive-patcher,Java,392,50,Apache-2.0
+440,440,pinject,A pythonic dependency injection library.,Python,992,77,Apache-2.0
+441,441,brotli,Brotli compression format,C,"8,210",781,MIT
+442,442,python-cloud-utils,Açıklama yok,Python,12,12,Apache-2.0
+443,443,REAPER,Açıklama yok,C++,227,65,Apache-2.0
+444,444,kir-holiday-lights,Açıklama yok,Lasso,7,6,Apache-2.0
+445,445,extra-keyboards-for-chrome-os,Extra keyboard layouts and input methods for Chrome OS,JavaScript,100,68,Apache-2.0
+446,446,tabletopaudio-action,Açıklama yok,TypeScript,3,1,Apache-2.0
+447,447,s2geometry,Computational geometry and spatial indexing on the sphere,C++,975,135,Apache-2.0
+448,448,lifetime_value,Açıklama yok,Jupyter Notebook,0,7,Apache-2.0
+449,449,effcee,"Effcee is a C++ library for stateful pattern matching of strings, inspired by LLVM's FileCheck",C++,57,25,Apache-2.0
+450,450,go-licenses,Reports on the licenses used by a Go package and its dependencies.,Go,36,3,Apache-2.0
+451,451,android-emulator-hypervisor-driver-for-amd-processors,Açıklama yok,C,24,5,GPL-2.0
+452,452,tarpc,An RPC framework for Rust with a focus on ease of use.,Rust,"1,207",85,MIT
+453,453,adcase,Açıklama yok,Python,0,0,Apache-2.0
+454,454,wycheproof,Project Wycheproof tests crypto libraries against known attacks.,Java,"2,165",234,Apache-2.0
+455,455,opencasebook,Open Source Casebook,Ruby,26,17,Lisans yok
+456,456,grr,GRR Rapid Response: remote live forensics for incident response,Python,"3,374",615,Apache-2.0
+457,457,roman-word-bubbling,Açıklama yok,CSS,2,3,Apache-2.0
+458,458,grr-doc,Documentation for the GRR Rapid Reponse framework,Python,266,153,Apache-2.0
+459,459,gpu-runtime,Açıklama yok,C++,0,2,Apache-2.0
+460,460,gcnn-survey-paper,Açıklama yok,Python,0,1,Apache-2.0
+461,461,opensmartbutton,Açıklama yok,C,2,2,Apache-2.0
+462,462,pprof,pprof is a tool for visualization and analysis of profiling data,Go,"3,105",277,Apache-2.0
+463,463,virtual-authenticators-tab,Chrome extension that adds a virtual authenticators tab to devtools,JavaScript,27,2,Apache-2.0
+464,464,makerspace-auth,Designs for our makerspace access control devices,Python,44,21,Apache-2.0
+465,465,play-instant-unity-plugin,The Google Play Instant Plugin for Unity Beta : Simplifies conversion of a Unity-based Android app into an instant app that can be deployed through Google Play Instant.,C#,131,32,Lisans yok
+466,466,logger,Cross platform Go logging library.,Go,755,67,Apache-2.0
+467,467,eng-edu,Açıklama yok,Jupyter Notebook,472,228,Apache-2.0
+468,468,.github,default configuration for @google repos,Dil yok,6,27,Lisans yok
+469,469,sa360-bigquery-bootstrapper,Açıklama yok,Python,0,0,Apache-2.0
+470,470,uis-rnn,"This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization.",Python,"1,093",231,Apache-2.0
+471,471,apps_script_tools,Tools for writing Apps Scripts in the Dart programming language,Dart,17,6,Apache-2.0
+472,472,mail-importer,"Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.",Java,181,72,Apache-2.0
+473,473,woff2,Açıklama yok,C++,629,119,MIT
+474,474,dart_google_apps,Interop libraries to write Google Apps scripts in the Dart programming language.,Dart,19,7,Apache-2.0
+475,475,unrestricted-adversarial-examples,Contest Proposal and infrastructure for the Unrestricted Adversarial Examples Challenge,Python,287,61,Apache-2.0
+476,476,desugar_jdk_libs,Açıklama yok,Java,57,10,GPL-2.0
+477,477,macops-keychainminder,SecurityAgentPlugin for monitoring keychain password synchronization,Objective-C,85,21,Lisans yok
+478,478,embedding-tests,Açıklama yok,Python,1,2,Apache-2.0
+479,479,ktsan,"KernelThreadSanitizer, a fast data race detector for the Linux kernel",C,511,67,Lisans yok
+480,480,bazel-to-cmake,Açıklama yok,Python,50,11,Apache-2.0
+481,481,oauth2l,"oauth2l (""oauth tool"") is a simple CLI for interacting with Google oauth tokens.",Go,262,43,Apache-2.0
+482,482,guetzli,Perceptual JPEG encoder,C++,"12,271",982,Apache-2.0
+483,483,struct2tensor,struct2tensor is a library for parsing and manipulating structured data inside of tensorflow.,Python,4,2,Apache-2.0
+484,484,data-driven-discretization-1d,"Code for ""Learning data-driven discretizations for partial differential equations""",Jupyter Notebook,65,22,Apache-2.0
+485,485,tracing-framework,Web Tracing Framework libraries and extensions.,JavaScript,"2,576",220,BSD-3-Clause
+486,486,netstack,IPv4 and IPv6 userland network stack,Go,"2,863",243,Apache-2.0
+487,487,guice,"Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.",Java,"8,983","1,309",Apache-2.0
+488,488,multi-task-architecture-search,Açıklama yok,Python,1,1,Apache-2.0
+489,489,pyringe,Debugger capable of attaching to and injecting code into python processes.,Python,"1,552",70,Apache-2.0
+490,490,eddystone,"Specification for Eddystone, an open beacon format from Google",C,"2,871",751,Apache-2.0
+491,491,statechart,C++ StateChart Library,C++,62,13,Apache-2.0
+492,492,java-photoslibrary,Java client library for the Google Photos Library API,Java,56,36,Apache-2.0
+493,493,cel-cpp,"Fast, portable, non-Turing complete expression evaluation (C++)",C++,51,23,Apache-2.0
+494,494,science-journal,Use the sensors in your mobile devices to perform science experiments. Science doesn’t just happen in the classroom or lab—tools like Science Journal let you see how the world works with just your phone.,Java,405,125,Apache-2.0
+495,495,deputy-api-python-client,Açıklama yok,Python,4,4,Apache-2.0
+496,496,synthesizer-io,Açıklama yok,Rust,28,12,Apache-2.0
+497,497,aiyprojects-raspbian,"API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)",Python,"1,296",622,Apache-2.0
+498,498,nvidia_libs_test,"Tests and benchmarks for cudnn (and in the future, other nvidia libraries)",C++,21,12,Apache-2.0
+499,499,deepdream,Açıklama yok,Dil yok,"12,319","3,096",Lisans yok
+500,500,checkers,Açıklama yok,Python,10,8,Apache-2.0
+501,501,gvisor-containerd-shim,containerd shim for gVisor,Go,62,19,Apache-2.0
+502,502,proto-lens,API for protocol buffers using modern Haskell language and library patterns.,Haskell,335,68,Lisans yok
+503,503,cronutils,utilities to assist running batch processing jobs,C,93,18,Apache-2.0
+504,504,schism,A self-hosting Scheme to WebAssembly compiler,Scheme,"1,047",48,Apache-2.0
+505,505,iosched,The Google I/O 2019 Android App,Kotlin,"19,539","6,031","6,031"
+506,506,svcca,Açıklama yok,Jupyter Notebook,401,86,Apache-2.0
+507,507,science-journal-ios,Use the sensors in your mobile devices to perform science experiments. Science doesn’t just happen in the classroom or lab—tools like Science Journal let you see how the world works with just your phone.,Swift,506,53,Apache-2.0
+508,508,autofdo,AutoFDO,C++,251,70,Apache-2.0
+509,509,neper,neper is a Linux networking performance tool.,C,82,25,Apache-2.0
+510,510,myanmar-tools,"Detect and convert the Zawgyi-One font encoding in C++, Java, JavaScript, PHP, and Ruby",Java,153,57,Lisans yok
+511,511,google.github.io,Açıklama yok,HTML,42,45,Lisans yok
+512,512,disable-keyboard-shortcuts,Chrome extension to disable keyboard shortcuts,Makefile,0,4,Apache-2.0
+513,513,framework-for-osdu,Açıklama yok,Java,0,0,Apache-2.0
+514,514,shlex,Automatically exported from code.google.com/p/go-shlex,Go,67,18,Apache-2.0
+515,515,brain-tokyo-workshop,🧠🗼,Python,679,189,Apache-2.0
+516,516,cassowary.dart,Cassowary constraint solving algorithm in Dart,Dart,9,4,Lisans yok
+517,517,brotli-wheels,Brotli wheels,Shell,5,6,MIT
+518,518,python-adb,Python ADB + Fastboot implementation,Python,"1,151",266,Apache-2.0
+519,519,python_portpicker,A module to find available network ports for testing.,Python,93,46,Apache-2.0
+520,520,pix-image-viewer,"Desktop image viewer. View thousands of images in a zoomable, pannable grid.",Rust,72,4,Apache-2.0
+521,521,nixysa,Automatically exported from code.google.com/p/nixysa,Python,6,7,Apache-2.0
+522,522,elemental2,Type checked access to browser APIs for Java code.,Python,97,31,Lisans yok
+523,523,closure-templates,A client- and server-side templating system that helps you dynamically build reusable HTML and UI elements,Java,413,153,Apache-2.0
+524,524,haskell-trainings,Haskell 101 and 102: slides and codelabs,Haskell,"1,108",73,Apache-2.0
+525,525,jsinterop-annotations,JsInterop java annotations for J2CL and GWT,Java,6,1,Apache-2.0
+526,526,szl,A compiler and runtime for the Sawzall language,C++,55,12,Lisans yok
+527,527,nsync,"nsync is a C library that exports various synchronization primitives, such as mutexes",C,124,49,Apache-2.0
+528,528,marzipano,A 360° media viewer for the modern web.,JavaScript,942,489,Apache-2.0
+529,529,ios-webkit-debug-proxy,A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).,C,"4,714",403,Lisans yok
+530,530,crc32c,CRC32C implementation with support for CPU-specific acceleration instructions,C++,190,56,BSD-3-Clause
+531,531,bbr,Açıklama yok,Dil yok,"4,011",501,Lisans yok
+532,532,loaner,Automated Chromebook loaner management,Python,143,51,Apache-2.0
+533,533,abpackage,An R package for AB testing leveraging pre-period information,R,39,11,Apache-2.0
+534,534,voice-builder,An opensource text-to-speech (TTS) voice building tool,JavaScript,214,51,Apache-2.0
+535,535,corpuscrawler,Crawler for linguistic corpora,Python,86,33,Lisans yok
+536,536,tweakr,Açıklama yok,Java,2,1,Apache-2.0
+537,537,capirca,Multi-platform ACL generation system,Python,415,129,Apache-2.0
+538,538,gps_data_solutions,Açıklama yok,Go,0,1,Lisans yok
+539,539,docker-explorer,A tool to help forensicate offline docker acquisitions,Python,266,23,Apache-2.0
+540,540,web-hv,A web based tool for inspecting UI of an in-development android app,JavaScript,15,4,Apache-2.0
+541,541,emboss,Emboss is a tool for generating code that reads and writes binary data structures.,Python,14,1,Lisans yok
+542,542,web-api-gateway,Açıklama yok,Go,22,8,Apache-2.0
+543,543,lkml-gerrit-bridge,Açıklama yok,Python,0,0,Apache-2.0
+544,544,active-learning,Açıklama yok,Python,549,132,Apache-2.0
+545,545,ringdroid,Açıklama yok,Java,697,239,Lisans yok
+546,546,eta-to-rsa-scripts,Açıklama yok,JavaScript,0,1,Apache-2.0
+547,547,bloaty,Bloaty McBloatface: a size profiler for binaries,C++,"2,251",141,Apache-2.0
+548,548,crfs,CRFS: Container Registry Filesystem,Go,940,45,BSD-3-Clause
+549,549,myelin-acorn-electron-hardware,Phillip Pearson's retro hardware projects for the Acorn Electron,Python,28,14,Apache-2.0
+550,550,sredocs,Açıklama yok,Go,28,4,Apache-2.0
+551,551,speaker-id,This repository contains audio samples and supplementary materials accompanying publications related to the speaker-id team at Google.,HTML,57,14,Lisans yok
+552,552,hotel-booking-api-validator,Utility to assist partner develop and test their Book on Google API integration.,Go,7,3,Apache-2.0
+553,553,fuzzing,"Tutorials, examples, discussions, research proposals, and other resources related to fuzzing",Shell,386,45,Apache-2.0
+554,554,git-presubmit-linter,Açıklama yok,Shell,16,7,Apache-2.0
+555,555,jimfs,An in-memory file system for Java 7+,Java,"1,735",221,Apache-2.0
+556,556,tacotron,"Audio samples accompanying publications related to Tacotron, an end-to-end speech synthesis model.",HTML,436,72,Lisans yok
+557,557,berrydb,Açıklama yok,C++,65,26,BSD-3-Clause
+558,558,blockly-ios,Blockly for iOS,Swift,348,98,Lisans yok
+559,559,node-gles,Açıklama yok,C++,243,20,Apache-2.0
+560,560,edf,Açıklama yok,Go,6,5,Apache-2.0
+561,561,robotstxt,The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).,C++,"3,064",179,Apache-2.0
+562,562,oculi,"A Google Cloud-based pipeline for tagging image and video ads based on their content, enabling advanced creative analysis.",Python,6,4,Apache-2.0
+563,563,tiff,Go package for working with the file structure of a TIFF.,Go,35,12,BSD-3-Clause
+564,564,google-api-ruby-client-samples,Samples for the Google API Ruby Client,Dil yok,326,170,Lisans yok
+565,565,python-spanner-orm,Spanner ORM written in Python,Python,17,6,Apache-2.0
+566,566,inject-common,Utilities for implementers and consumers of the javax.inject APIs.,Java,0,2,Apache-2.0
+567,567,gwtmockito,Better GWT unit testing,Java,151,54,Apache-2.0
+568,568,gpu-mux,Açıklama yok,Python,40,4,Apache-2.0
+569,569,pybadges,A Python library for creating Github-style badges,Python,131,32,Apache-2.0
+570,570,git-appraise-web,Web UI for git-appraise,HTML,147,18,Apache-2.0
+571,571,web-serial-polyfill,Açıklama yok,TypeScript,6,3,Apache-2.0
+572,572,nanopb-podspec,Podspecs of library I claimed ownership on CocoaPods,Ruby,2,13,MIT
+573,573,apt-golang-s3,An s3 transport method for the apt package management system,Go,16,7,Apache-2.0
+574,574,private-join-and-compute,Açıklama yok,C++,471,66,Apache-2.0
+575,575,jarvan,Açıklama yok,Python,0,0,Apache-2.0
+576,576,enjarify,Açıklama yok,Python,"2,467",467,Apache-2.0
+577,577,orderedcode,Açıklama yok,Go,26,8,Apache-2.0
+578,578,incremental-dom,An in-place DOM diffing library,TypeScript,"3,236",165,Apache-2.0
+579,579,uninum,"A database of number names for 186 languages, locales, and scripts",Dil yok,42,11,Lisans yok
+580,580,gae-secure-scaffold-python,Açıklama yok,Python,105,47,Apache-2.0
+581,581,service-worker-detector,This extension detects if a website registers a Service Worker.,JavaScript,99,13,Apache-2.0
+582,582,certificate-transparency-rfcs,Certificate Transparency RFC,Python,69,37,Lisans yok
+583,583,paseos,Paseos is a web app for creating and sharing web journeys.,JavaScript,5,7,Apache-2.0
+584,584,wikiloop-wikidata-game,Açıklama yok,JavaScript,0,1,Apache-2.0
+585,585,common-sk,Açıklama yok,JavaScript,1,1,Apache-2.0
+586,586,elements-sk,A collection of v1 custom elements.,JavaScript,14,3,Apache-2.0
+587,587,automation-inspector,Açıklama yok,JavaScript,16,11,Apache-2.0
+588,588,wikiloop-explorer,Açıklama yok,Vue,1,1,Apache-2.0
+589,589,gfw-deployments,Scripts and tools created by the Google For Work Team. (Contributions Encouraged!),Python,58,52,Lisans yok
+590,590,sketch2ae,Editable After Effects layers from Sketch artboards,JavaScript,292,29,Apache-2.0
+591,591,lovefield,"Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use.",JavaScript,"6,222",389,Apache-2.0
+592,592,floog,Açıklama yok,TSQL,0,1,Apache-2.0
+593,593,pygtrie,Python library implementing a trie data structure.,Python,538,105,Apache-2.0
+594,594,badwolf-drivers,Açıklama yok,Go,13,2,Apache-2.0
+595,595,icing-search,Açıklama yok,0,0,1,Lisans yok
+596,596,google-drive-dokany,Açıklama yok,C,13,6,Lisans yok
+597,597,tangent,Source-to-Source Debuggable Derivatives in Pure Python,Python,"2,005",280,Apache-2.0
+598,598,prog-edu-assistant,Açıklama yok,Jupyter Notebook,10,9,Apache-2.0
+599,599,distributed-git-forks,Distributed management of git forks,Shell,8,3,Apache-2.0
+600,600,phase-prediction,"Audio samples accompanying ""Learning audio representations via phase prediction"".",HTML,1,1,Apache-2.0
+601,601,cpp-from-the-sky-down,Açıklama yok,HTML,111,11,Apache-2.0
+602,602,xssxss,make Chrome suspend XScreenSaver during video playback,C,1,1,Apache-2.0
+603,603,campaign-manager-bulk-uploader,Reference implementation of a Python and Angular application utilizing the Campaign Manager API to do ad trafficking.,Python,0,4,Apache-2.0
+604,604,swift-lldb,This is the version of LLDB that supports the Swift programming language & REPL.,C++,6,210,Lisans yok
+605,605,swift-clang,Açıklama yok,C++,4,175,Lisans yok
+606,606,swift-llvm,Açıklama yok,LLVM,4,196,Lisans yok
+607,607,swift-corelibs-libdispatch,"The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware",C,2,339,Lisans yok
+608,608,swift-corelibs-foundation,"The Foundation Project, providing core utilities, internationalization, and OS independence",C,2,901,Lisans yok
+609,609,youtube-8m,Starter code for working with the YouTube-8M dataset.,Python,"1,866",787,Apache-2.0
+610,610,libcppbor,Açıklama yok,C++,1,1,Apache-2.0
+611,611,splot-java,"Splot for Java: An Experimental IoT Machine-to-Machine Library for Monitoring, Control, and Automation",Java,7,6,Apache-2.0
+612,612,mr4c,Açıklama yok,Java,888,229,Apache-2.0
+613,613,tcp_killer,Shuts down a TCP connection on Linux or macOS. Local and remote endpoint arguments can be copied from the output of 'netstat -lanW'.,Python,142,25,Apache-2.0
+614,614,certtostore,Hardware Backed Keys and Certificate Store Management on Windows,Go,16,6,Apache-2.0
+615,615,ffn,Flood-Filling Networks for instance segmentation in 3d volumes.,Python,222,70,Apache-2.0
+616,616,graph-gen,Açıklama yok,Python,1,4,Apache-2.0
+617,617,sa360-bidbyweather,Açıklama yok,JavaScript,0,1,Apache-2.0
+618,618,breakpad,"Mirrored from
+            
+              https://chromium.googlesource.com/breakpad/breakpad",C++,"1,171",377,Lisans yok
+619,619,gov-meetings-made-searchable,Make the contents of public meetings searchable and discoverable.,Python,13,4,Apache-2.0
+620,620,quiver-log,Logging utility for dart modeled on log4j/logback,Dart,13,13,Lisans yok
+621,621,dnsmasq_exporter,dnsmasq exporter for Prometheus,Go,53,23,Apache-2.0
+622,622,guava-beta-checker,Açıklama yok,Java,64,12,Apache-2.0
+623,623,differential-privacy,Google's C++ differential privacy library.,C++,"1,425",132,Apache-2.0
+624,624,forklift,"Forklift is an IndexedDB-specific macrobenchmark that lets us measure progress, guide future optimizations, and detect and respond to stability and performance regressions in IndexedDB implementations.",JavaScript,5,4,BSD-3-Clause
+625,625,swiftshader,"Mirrored from
+            
+              https://swiftshader.googlesource.com/SwiftShader",C++,887,139,Apache-2.0
+626,626,netbsd-gce,NetBSD Support for Google Compute Engine,Shell,25,7,BSD-3-Clause
+627,627,caja,"Caja is a tool for safely embedding third party HTML, CSS and JavaScript in your website.",Java,977,100,Apache-2.0
+628,628,cld3,Açıklama yok,C++,279,73,Apache-2.0
+629,629,swift-corelibs-xctest,"The XCTest Project, A Swift core library for providing unit test support",Swift,2,221,Lisans yok
+630,630,payjs,Açıklama yok,JavaScript,2,6,Apache-2.0
+631,631,gnxi,gNXI Tools - gRPC Network Management/Operations Interface Tools,Go,115,53,Apache-2.0
+632,632,btree,Açıklama yok,Go,"1,867",238,Apache-2.0
+633,633,intermock,Mocking library to create mock objects with fake data for TypeScript interfaces,TypeScript,217,10,Apache-2.0
+634,634,android-classyshark,Analyze any Android/Java based app or game,Java,"6,160",797,Apache-2.0
+635,635,gfbuild-SPIRV-Cross,Açıklama yok,0,0,0,Lisans yok
+636,636,MOE-py,A system for synchronizing repositories,Java,4,9,Lisans yok
+637,637,apis-client-generator,"The Google APIs Client Generator is a tool for generating client libraries for APIs based on the Google API Discovery format. It is based on the same core technology Google uses to publish their API libraries. Current support is for C++, C#/.NET, Dart, Java, Java/GWT, and PHP.",Python,142,46,Apache-2.0
+638,638,FluidNet,Accelerating Eulerian Fluid Simulation With Convolutional Networks,Lua,642,123,Lisans yok
+639,639,brandometer,Açıklama yok,JavaScript,1,3,Apache-2.0
+640,640,gmail-oauth2-tools,Tools and sample code for authenticating to Gmail with OAuth2,Python,203,109,Apache-2.0
+641,641,AndroidForegroundCompat,Backported view foreground support for Android 5.0+,Java,45,2,Apache-2.0
+642,642,codesearch,"Fast, indexed regexp search over large file trees",Go,"2,121",250,BSD-3-Clause
+643,643,cloud-function-edit-drive-permissions,This sample Cloud Function code is designed to remove permissions from a Drive file where the file is visible across the entire domain. The Function is triggered against a Pub/Sub payload that contains Drive document metadata and sharing events that would prompt the Function to execute.,Python,5,5,Apache-2.0
+644,644,material-design-lite,Material Design Components in HTML/CSS/JS,HTML,"31,531","5,321",Apache-2.0
+645,645,mysql-ripple,"Ripple, a server that can serve as a middleman in MySQL replication",C++,303,33,Apache-2.0
+646,646,fusion-tables-archive-visualizer,Açıklama yok,TypeScript,27,8,Apache-2.0
+647,647,ts-bridge,Time Series Bridge: a tool to import metrics from one monitoring system to another,Go,19,11,Apache-2.0
+648,648,GeoexperimentsResearch,An open-source implementation of the geo experiment analysis methodology developed at Google. Disclaimer: This is not an official Google product.,R,49,30,Apache-2.0
+649,649,image-compression,Açıklama yok,C++,60,25,Apache-2.0
+650,650,promises,Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.,Objective-C,"3,079",184,Apache-2.0
+651,651,highwayhash,Fast strong hash functions: SipHash/HighwayHash,C++,961,125,Apache-2.0
+652,652,gdata-python-client,Açıklama yok,HTML,406,219,Lisans yok
+653,653,flutter-provide,A simple framework for state management in Flutter.,Dart,729,42,Lisans yok
+654,654,goexpect,Expect for Go,Go,412,74,BSD-3-Clause
+655,655,ngrx-visualizer,Açıklama yok,TypeScript,8,3,Apache-2.0
+656,656,google-my-business-samples,Code samples in various languages for the Google My Business API.,JavaScript,12,10,Apache-2.0
+657,657,fusion-tables-drive-export,Açıklama yok,TypeScript,1,1,Apache-2.0
+658,658,clusterfuzz-tools,Bugs are inevitable. Suffering is optional.,Python,111,41,Apache-2.0
+659,659,pixelvisualcorecamera,Açıklama yok,Java,80,25,Apache-2.0
+660,660,vim-searchindex,vim-searchindex: display number of search matches & index of a current match,Vim script,292,21,Apache-2.0
+661,661,ansicolor-dart,Açıklama yok,Dart,41,17,Apache-2.0
+662,662,retrieval-qa-eval,Açıklama yok,Python,20,4,Apache-2.0
+663,663,pkcs11test,PKCS#11 Test Suite,C++,41,38,Apache-2.0
+664,664,go-tika,Go package for using Apache Tika,Go,85,17,Apache-2.0
+665,665,aistreamer,Google AIStreamer,C++,40,19,Lisans yok
+666,666,cap-library,Common Alerting Protocol Library,HTML,64,26,Apache-2.0
+667,667,language-resources,Datasets and tools for basic natural language processing.,Python,197,69,Apache-2.0
+668,668,macops,"Utilities, tools, and scripts for managing and tracking a fleet of Macintoshes in a corporate environment",Python,732,82,Apache-2.0
+669,669,walk,Plan 9 style utilities to replace find(1),C,11,3,Apache-2.0
+670,670,transperf,a tool for testing transport protocol performance over emulated network scenarios,Python,76,4,Apache-2.0
+671,671,pulito,Conventions and structure for a Vanilla JS application with a supporting webpack config.,JavaScript,29,5,Lisans yok
+672,672,neural_rerendering_in_the_wild,Açıklama yok,Python,121,13,Apache-2.0
+673,673,Accessibility-Test-Framework-for-Android,Açıklama yok,Java,170,51,Apache-2.0
+674,674,stijl,Unified code review dashboard.,JavaScript,31,10,Apache-2.0
+675,675,emoji-scavenger-hunt,Emoji Scavenger Hunt is an experiment that leverages the power of neural networks and your phone’s camera to identify the real world versions of the emojis we use every day.,TypeScript,722,176,Apache-2.0
+676,676,ihmehimmeli,Açıklama yok,C++,88,12,Apache-2.0
+677,677,lvmd,LVMd – the gRPC Wrapper for LVM,Go,12,16,Apache-2.0
+678,678,compare_gan,Compare GAN code.,Python,"1,476",294,Apache-2.0
+679,679,TextNormalizationCoveringGrammars,Covering grammars for English and Russian text normalization,Makefile,30,6,Apache-2.0
+680,680,googlesource-auth-tools,Açıklama yok,Go,4,1,Apache-2.0
+681,681,paco,The Paco behavioral science mobile research platform,Objective-C,311,106,Apache-2.0
+682,682,crclib.dart,Açıklama yok,Dart,8,12,Apache-2.0
+683,683,rxcppuniq,Açıklama yok,C++,2,2,Apache-2.0
+684,684,live-transcribe-speech-engine,Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Google's Cloud Speech API that are used in Live Transcribe.,Java,957,150,Apache-2.0
+685,685,hypebot,#HypeBotHype,Python,12,7,Apache-2.0
+686,686,gps-measurement-tools,Açıklama yok,Java,339,201,Apache-2.0
+687,687,GSCXScanner,iOS Accessibility Scanner,Objective-C,80,9,Apache-2.0
+688,688,scaaml,Açıklama yok,Jupyter Notebook,3,2,Apache-2.0
+689,689,poseshield-tfjs,Açıklama yok,Vue,9,2,Apache-2.0
+690,690,go-cmdtest,This package simplifies testing of command-line interfaces.,Go,20,4,Apache-2.0
+691,691,webauthndemo,An example Java Relying Party implementation of the WebAuthn specification,Java,203,66,Apache-2.0
+692,692,go-replayers,Açıklama yok,Go,243,14,Apache-2.0
+693,693,play-work,Açıklama yok,Java,60,37,Apache-2.0
+694,694,react-schemaorg,Type-checked Schema.org JSON-LD for React,TypeScript,113,7,Apache-2.0
+695,695,process.dart,Açıklama yok,Dart,18,15,BSD-3-Clause
+696,696,flutter_minimal_store,Açıklama yok,Dart,9,4,Apache-2.0
+697,697,charted,Visualization toolkit for Dart language,Dart,145,64,Lisans yok
+698,698,android-key-attestation,Açıklama yok,Java,43,17,Apache-2.0
+699,699,boundedwait,Açıklama yok,Go,0,1,Apache-2.0
+700,700,scrollytell,tiny mobile-friendly scrollytelling library,TypeScript,21,2,Apache-2.0
+701,701,minetest_pnr,Place & Router for Minetest,Rust,2,1,Apache-2.0
+702,702,fleetspeak-doc,Açıklama yok,Dil yok,0,1,Lisans yok
+703,703,webkit_inspection_protocol.dart,A client for the Webkit Inspection Protocol (WIP).,Dart,6,16,Lisans yok
+704,704,go-querystring,go-querystring is Go library for encoding structs into URL query parameters.,Go,994,111,BSD-3-Clause
+705,705,u2f-ref-code,U2F reference implementations,JavaScript,530,172,BSD-3-Clause
+706,706,earthstudio-ffmpeg-automator,Açıklama yok,Shell,4,2,Apache-2.0
+707,707,knusperli,A deblocking JPEG decoder,C++,404,22,Apache-2.0
+708,708,bi-tempered-loss,Robust Bi-Tempered Logistic Loss Based on Bregman Divergences. https://arxiv.org/pdf/1906.03361.pdf,Python,80,14,Apache-2.0
+709,709,libnop,libnop: C++ Native Object Protocols,C++,304,30,Lisans yok
+710,710,mannequinchallenge,"Inference code and trained models for ""Learning the Depths of Moving People by Watching Frozen People.""",Python,297,55,Apache-2.0
+711,711,quic-trace,Library and tools for transcribing QUIC connections.,C++,69,17,Apache-2.0
+712,712,tpm-js,Learn how to use your Trusted Platform Module (TPM),C++,37,13,Apache-2.0
+713,713,rtc-video-quality,Compare (Real-Time) Video Codec Performance,Python,73,27,Apache-2.0
+714,714,page-timer,A personal time-tracking Chrome extension,JavaScript,72,34,Apache-2.0
+715,715,codeu_project_2017,CODEU is a program created by Google to develop the skills of future software engineers. This project is a playground for those looking to develop their coding and software engineering skills.,Java,87,112,Apache-2.0
+716,716,kafel,A language and library for specifying syscall filtering policies.,C,176,38,Apache-2.0
+717,717,dpy,Python Inversion of Control (AKA Dependency Injection!),Python,56,11,MIT
+718,718,google-drive-proxy,"Google Drive Proxy is a Windows service that provides a simpler interface to the Google Drive API for other applications. It transparently handles authentication, synchronization and managing a cache of downloaded files.",C#,56,30,Apache-2.0
+719,719,crunchy,CrunchyCrypt - Safe and Simple Cryptography,C++,118,13,Apache-2.0
+720,720,google-drive-shell-extension,Google Drive Shell Extension is a Shell Namespace Extension for Microsoft Windows. It creates a virtual folder on My Computer that allows the user to interact with his Google Drive account transparently through Windows Explorer.,C++,111,46,Apache-2.0
+721,721,dimsum,Portable C++ SIMD library,C++,129,19,Apache-2.0
+722,722,processingjs-ide,A lightweight browser-based IDE for Processing.js with Japanese translation,JavaScript,11,7,Apache-2.0
+723,723,etc2comp,Açıklama yok,C++,267,74,Apache-2.0
+724,724,mozc,Mozc - a Japanese Input Method Editor designed for multi-platform,C++,632,131,BSD-3-Clause
+725,725,rappor,RAPPOR: Privacy-Preserving Reporting Algorithms,R,679,130,Apache-2.0
+726,726,pam-cryptsetup,Automatic LUKS header updates via PAM,C,15,13,Apache-2.0
+727,727,tcmalloc,Açıklama yok,0,0,0,Lisans yok
+728,728,compynator,A pure Python implementation of parser combinators with asymptotically best performance and support for context-sensitive or ambiguous grammars.,Python,4,1,Apache-2.0
+729,729,security-crawl-maze,Security Crawl Maze is a comprehensive testbed for web security crawlers. It contains pages representing many ways in which one can link resources from a valid HTML document.,HTML,58,5,Apache-2.0
+730,730,ffcc,Fast Fourier Color Constancy: an auto white balance solution with machine learning in Fourier space,MATLAB,90,46,Apache-2.0
+731,731,python-subprocess32,A backport of the Python 3 subprocess module for use on Python 2.,Python,158,42,Lisans yok
+732,732,gtest-parallel,Run Google Test suites in parallel.,Python,202,63,Apache-2.0
+733,733,inspectorspacetime,Inject motion specs into reference video to become an engineer's best friend,JavaScript,104,14,Apache-2.0
+734,734,copper,Copper is a module aimed at providing low-level hardware abstraction layers (HAL) as Python modules.,Python,6,4,Apache-2.0
+735,735,namebench,namebench,Go,694,110,Apache-2.0
+736,736,mozc-devices,Automatically exported from code.google.com/p/mozc-morse,Python,744,84,Apache-2.0
+737,737,cpix_cc,A C++ implementation of CPIX specification for the exchange of encryption keys and DRM information.,C++,4,3,Apache-2.0
+738,738,vim-coverage,Açıklama yok,Vim script,69,12,Apache-2.0
+739,739,php-photoslibrary,PHP client library for the Google Photos Library API,PHP,42,24,Apache-2.0
+740,740,subpar,Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.,Python,352,61,Apache-2.0
+741,741,intellij-protocol-buffer-editor,Protocol Buffers support for IntelliJ,Java,11,2,Apache-2.0
+742,742,vim-codereview,Açıklama yok,Vim script,58,10,Apache-2.0
+743,743,vim-maktaba,Consistent Vimscript,Vim script,533,44,Apache-2.0
+744,744,vim-selector,Açıklama yok,Vim script,12,4,Apache-2.0
+745,745,vim-syncopate,Make it easy to share beautiful code. DISCLAIMER: This is not an official Google product.,Vim script,81,12,Apache-2.0
+746,746,vim-glaive,Açıklama yok,Vim script,67,18,Apache-2.0
+747,747,gousb,gousb provides low-level interface for accessing USB devices,Go,340,54,Apache-2.0
+748,748,upvote,A multi-platform binary whitelisting solution,Python,392,24,Apache-2.0
+749,749,cssi-labs,Açıklama yok,HTML,15,58,Apache-2.0
+750,750,liquidfun,2D physics engine for games,C++,"3,910",531,Lisans yok
+751,751,sre_yield,Python module to generate regular all expression matches,Python,124,29,Apache-2.0
+752,752,customer-match-upload-script,Açıklama yok,Python,2,1,Apache-2.0
+753,753,grpc-kapt,Annotation driven gRPC clients & servers in Kotlin,Kotlin,9,2,Apache-2.0
+754,754,swift-package-manager,The Package Manager for the Swift Programming Language,Swift,5,916,Lisans yok
+755,755,google-id-token,Automatically exported from code.google.com/p/google-id-token,Ruby,45,37,Apache-2.0
+756,756,winops,Small scripts and libraries for managing Windows in a corporate environment.,Python,37,10,Apache-2.0
+757,757,webview-local-server,Açıklama yok,Java,99,46,Apache-2.0
+758,758,import-mailbox-to-gmail,Import .mbox files into G Suite,Python,246,66,Apache-2.0
+759,759,macops-MOLAuthenticatingURLSession,A wrapper around NSURLSession providing validation of server certificates and easy-to-use client certificate authentication.,Objective-C,13,9,Apache-2.0
+760,760,dokka,Documentation Engine for Kotlin,Kotlin,10,146,Apache-2.0
+761,761,macops-MOLXPCConnection,An NSXPCConnection wrapper that does signature validation,Objective-C,12,9,Apache-2.0
+762,762,kleaver,Kleaver is an experimental tool for managing out-of-tree kernel modules.,C,4,3,GPL-2.0
+763,763,gocw,go library for ChipWhisperer hardware security platform,Go,5,1,Apache-2.0
+764,764,pyctr,Açıklama yok,Python,9,2,Apache-2.0
+765,765,jse4conf,Açıklama yok,Java,0,1,Apache-2.0
+766,766,certificate-transparency,Auditing for TLS certificates.,C++,695,261,Apache-2.0
+767,767,compact_enc_det,compact_enc_det - Compact Encoding Detection,C++,96,49,Apache-2.0
+768,768,usbtool,"A tool to enumerate, list and monitor USB devices connected to a Linux host.",C,10,6,Apache-2.0
+769,769,spherical-harmonics,Spherical harmonics library,C++,253,60,Lisans yok
+770,770,startup-os,Working examples of Google's Open Source stack and deployment to the cloud.,Java,482,94,Apache-2.0
+771,771,platform.dart,A generic platform abstraction for Dart,Dart,29,14,BSD-3-Clause
+772,772,gif-for-cli,Açıklama yok,Python,"2,592",138,Apache-2.0
+773,773,blockly-android,Blockly for Android,Java,591,190,Apache-2.0
+774,774,multichannel-audio-tools,Açıklama yok,C++,16,10,Apache-2.0
+775,775,data-layer-helper,JavaScript library for working with dataLayer message queues.,JavaScript,270,67,Lisans yok
+776,776,android-kerberos-authenticator,Açıklama yok,Java,6,1,Apache-2.0
+777,777,razorback-minimal-driver,Açıklama yok,C,2,1,GPL-2.0
+778,778,uiimage-additions,A collection of miscellaneous utility methods for UIImage for memory-efficient image transformations.,Objective-C,17,6,Apache-2.0
+779,779,emitto,Açıklama yok,Go,10,1,Apache-2.0
+780,780,grinder.dart,"Dart workflows, automated",Dart,132,28,Lisans yok
+781,781,google-authenticator-android,Open source fork of the Google Authenticator Android app,Java,"1,107",363,Apache-2.0
+782,782,stereo-magnification,"Code accompanying the SIGGRAPH 2018 paper ""Stereo Magnification: Learning View Synthesis using Multiplane Images""",Python,218,50,Apache-2.0
+783,783,play-licensing,Google Play licensing service client library,Java,62,37,Apache-2.0
+784,784,santa-tracker-android,Ho Ho Ho,Java,"1,955",373,Lisans yok
+785,785,innsbruck-thermal-test-library,Açıklama yok,C++,1,1,Apache-2.0
+786,786,ldpush,A cross-vendor network device configuration distribution tool,Python,32,18,Apache-2.0
+787,787,googlemock,Google Mock,Dil yok,387,222,Lisans yok
+788,788,google-reauth-python,Açıklama yok,Python,5,6,Apache-2.0
+789,789,battery-historian,"Battery Historian is a tool to analyze battery consumers using Android ""bugreport"" files.",Go,"4,426",816,Lisans yok
+790,790,graph_distillation,Graph Distillation for Action Detection,Python,46,11,Apache-2.0
+791,791,argon,Campaign Manager & DV360 Reports to BigQuery connector,JavaScript,7,6,Apache-2.0
+792,792,byterun,A Python implementation of a Python bytecode runner,Python,8,181,Lisans yok
+793,793,vscode-bigquery,A Visual Studio Code plugin for running BigQuery queries.,TypeScript,47,8,Apache-2.0
+794,794,wear-sensors,Açıklama yok,Java,43,19,Lisans yok
+795,795,wear-screeninfo,Android Wear ScreenInfo,Java,29,9,Lisans yok
+796,796,wear-displaylock,Açıklama yok,Java,3,7,Lisans yok
+797,797,uuid,Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.,Go,"1,589",162,BSD-3-Clause
+798,798,audio-to-tactile,Açıklama yok,C,5,2,Apache-2.0
+799,799,goterm,Go Terminal library with PTY support and colors,Go,150,22,BSD-3-Clause
+800,800,telluride_decoding,Açıklama yok,Python,4,3,Apache-2.0
+801,801,webdriver.dart,Dart WebDriver client,Dart,79,50,Apache-2.0
+802,802,dart-json_diff,Açıklama yok,Dart,19,12,Apache-2.0
+803,803,cm-user-tool,Açıklama yok,JavaScript,1,1,Apache-2.0
+804,804,dart-scissors,"sCiSSors: smarter resources for Angular(1,2) apps: CSS pruner & bidirectionalizer, Sass runner, image optimizer, locale permutations",Dart,29,33,Apache-2.0
+805,805,science-journal-arduino,Science Journal Arduino Firmware,C,138,65,Apache-2.0
+806,806,nel-collector,Network Error Logging (NEL) collector,Go,12,11,Apache-2.0
+807,807,hashtable-benchmarks,Açıklama yok,Jupyter Notebook,52,9,Apache-2.0
+808,808,cpp-async-rpc,"Library for Asynchronicity, Serialization and Remoting",C++,26,8,Lisans yok
+809,809,spectral-density,Hessian spectral density estimation in TF,Python,15,4,Apache-2.0
+810,810,php-crc32,"PHP CRC32 implementations (support all crc32 polynomials, and hardware acceleration)",PHP,53,3,Apache-2.0
+811,811,google-api-cpp-client,The core C++ SK for using Google APIs,C++,281,107,Apache-2.0
+812,812,in-silico-labeling,Code for In silico labeling: Predicting fluorescent labels in unlabeled images,Python,202,66,Apache-2.0
+813,813,safebrowsing,Safe Browsing API Go Client,Go,308,100,Apache-2.0
+814,814,flight-lab,Açıklama yok,Python,7,8,Apache-2.0
+815,815,libcxx,libc++; cloned from http://llvm.org/git/libcxx.git,C++,144,65,Lisans yok
+816,816,vectorio,Library for Go (golang) to implement writev system call (not an official Google product),Go,62,7,Apache-2.0
+817,817,macops-molcodesignchecker,Simple Objective-C code signature validation,Objective-C,20,16,Apache-2.0
+818,818,macops-molcertificate,Objective-C wrapper around SecCertificateRef,Objective-C,26,12,Apache-2.0
+819,819,dart-glfw,"Dart bindings for GLFW, a multiplatform library for creating windows with OpenGL contexts.",C++,23,13,BSD-3-Clause
+820,820,dart-gl,OpenGL ES 2.0 Dart Native Extension,C++,62,14,BSD-3-Clause
+821,821,vim-colorscheme-primary,"Primary, a Vim color scheme based on Google's colors",Vim script,244,27,Apache-2.0
+822,822,hrx,HRX (Human-Readable Archive): a plain text archive format,Dil yok,13,4,Lisans yok
+823,823,open-vcdiff,An encoder/decoder for the VCDIFF (RFC3284) format,C++,123,48,Apache-2.0
+824,824,openjdk-kerberos,Açıklama yok,Java,0,2,GPL-2.0
+825,825,android-management-api-samples,Açıklama yok,Jupyter Notebook,10,11,Apache-2.0
+826,826,piex,Preview Image Extractor (PIEX),C++,37,19,Apache-2.0
+827,827,proto-task-queue,Açıklama yok,Python,2,3,Apache-2.0
+828,828,astc-codec,A software ASTC decoder implementation which supports the ASTC LDR profile,C++,29,17,Apache-2.0
+829,829,atlassian-addons-audit-sheet,"This tool will synchronize the list of Enabled User-Installed plugins in JIRA, Confluence, and Bitbucket with a Google Sheet for documentation and auditing.",Python,4,8,Lisans yok
+830,830,git-appraise,Distributed code review system for Git repos,Go,"4,158",130,Apache-2.0
+831,831,cauliflowervest,"App Engine-based escrow solution for enterprise management of disk encryption technologies for OS X (FileVault 2), Windows (BitLocker), and Linux (LUKS).",Python,265,40,Apache-2.0
+832,832,cocoapods-size,Measure the final binary size for the given set of Cocoapods.,Python,153,8,Apache-2.0
+833,833,tf_mesh_renderer,"A differentiable, 3D mesh renderer using TensorFlow.",Python,320,85,Apache-2.0
+834,834,vim-ft-go,Açıklama yok,Vim script,47,9,BSD-3-Clause
+835,835,protorpc,Açıklama yok,Python,59,38,Apache-2.0
+836,836,gcm,Google Cloud Messaging - client libraries and sample implementations,Java,820,550,Apache-2.0
+837,837,kiwi-solver,Kiwi is a minimalist and extendable Constraint Programming (CP) solver.,Java,31,8,Apache-2.0
+838,838,cssi-blogasaurus,A sample web app project from the Computer Science Summer Institute.,HTML,3,7,Apache-2.0
+839,839,gpu-emulation-stress-test,Açıklama yok,C++,42,15,Apache-2.0
+840,840,rust-shell,Helper library for std::process::Command to write shell script like tasks in rust,Rust,111,7,Apache-2.0
+841,841,importlab,A library that automatically infers dependencies for Python files,Python,70,16,Apache-2.0
+842,842,git-pull-request-mirror,Mirror pull requests into git-appraise,Go,65,12,Apache-2.0
+843,843,git-phabricator-mirror,Mirror source code metadata between git-notes and Phabricator,Go,23,11,Apache-2.0
+844,844,prometheus-slo-burn-example,"An end to end example of implementing SLOs with prometheus, grafana and Go.",Go,29,6,Apache-2.0
+845,845,powered-caster-vehicle,Açıklama yok,C++,5,2,Apache-2.0
+846,846,makerspace-partsbin,Açıklama yok,Python,12,8,CC-BY-4.0
+847,847,cameraview,[DEPRECATED] Easily integrate Camera features into your Android app,Java,"4,610","1,020",Apache-2.0
+848,848,bookbot-navigation,Açıklama yok,C++,2,4,Apache-2.0
+849,849,chive-varying-prosody-icml-2019,"This repository contains audio samples that go with the ICML 2019 paper, ""CHiVE: Varying Prosody in Speech Synthesis with a Linguistically Driven Dynamic Hierarchical Conditional Variational Network"", V. Wan, C.-a. Chan, T. Kenter, J. Vit and R. A. J. Clark.",HTML,3,3,Apache-2.0
+850,850,codeu-starter-project,Açıklama yok,Java,8,18,Apache-2.0
+851,851,coapblaster,A Java Library for implementing CoAP clients and servers.,Java,17,4,Apache-2.0
+852,852,hrx-ruby,A Ruby implementation of the HRX format,Ruby,5,3,Apache-2.0
+853,853,github-owners-bot,Açıklama yok,JavaScript,35,11,Apache-2.0
+854,854,pytruth,Assertion framework for Python unit tests,Python,90,18,Apache-2.0
+855,855,adb-sync,Açıklama yok,Python,712,106,Apache-2.0
+856,856,canvas-5-polyfill,HTML 5 Canvas Polyfill,JavaScript,166,48,Lisans yok
+857,857,android-wear-stitch-script,Açıklama yok,Python,22,12,Apache-2.0
+858,858,pik,A new lossy/lossless image format for photos and the internet,C++,728,49,MIT
+859,859,python-laurel,Python control of C by GE Bluetooth lightbulbs,Python,15,2,Apache-2.0
+860,860,lullaby,A collection of C++ libraries designed to help teams develop virtual and augmented reality experiences,C++,967,134,Apache-2.0
+861,861,ftc-object-detection,Object detection with machine learning for FTC!,C++,19,20,Apache-2.0
+862,862,mathfu,C++ math library developed primarily for games focused on simplicity and efficiency.,C++,"1,001",143,Apache-2.0
+863,863,squires,Self-documenting command line interfaces for Python,Python,9,8,Apache-2.0
+864,864,web-activities,Açıklama yok,JavaScript,38,14,Apache-2.0
+865,865,keyczar,Easy-to-use crypto toolkit,Dil yok,"1,098",163,Lisans yok
+866,866,farmhash,Automatically exported from code.google.com/p/farmhash,C++,409,62,Lisans yok
+867,867,neural-logic-machines,Implementation for the Neural Logic Machines (NLM).,Python,146,22,Apache-2.0
+868,868,sha1dc-jni,Açıklama yok,Java,1,2,Apache-2.0
+869,869,flatui,Efficient Immediate Mode UI for Games,C++,493,57,Apache-2.0
+870,870,fplbase,Cross platform low level rendering and I/O library,C++,172,41,Apache-2.0
+871,871,motive,"A cross-platform, memory efficient, and performant animation system written in C++",C++,164,40,Apache-2.0
+872,872,wayback-machine-button,Chrome extension to reopen the current page in the Wayback Machine,JavaScript,5,5,Apache-2.0
+873,873,expt-analysis,Açıklama yok,Python,3,3,Apache-2.0
+874,874,chromeosnavigationdemo,Açıklama yok,Kotlin,1,2,Lisans yok
+875,875,github-issue-mover,Making it easy to migrate issues between repos.,Dart,614,71,Apache-2.0
+876,876,citest,Library and tools that facilitate writing integration-tests for cloud services,Python,57,41,Apache-2.0
+877,877,proto-quic,Açıklama yok,Dil yok,"1,139",280,Lisans yok
+878,878,idaidle,A plugin for the commercial IDA Pro disassembler that warns users if they leave their instance idling for too long.,CMake,18,7,Apache-2.0
+879,879,pawn,Extract BIOS firmware from Intel-based workstations and laptops,C++,166,41,Apache-2.0
+880,880,acai,Testing library for JUnit4 and Guice.,Java,61,25,Apache-2.0
+881,881,gjstest,A fast javascript unit testing framework that runs on the V8 engine.,C++,113,47,Apache-2.0
+882,882,pikov,Tool to create and edit Pikov pixel art Markov chain animations.,Jupyter Notebook,12,6,Apache-2.0
+883,883,open-location-code-swift,"Swift implementation of Open Location Code (Plus Codes). Supports Swift and Objective-C for iOS, macOS, tvOS and watchOS, and Swift for Linux.",Swift,29,12,Apache-2.0
+884,884,godepq,Açıklama yok,Go,324,25,MIT
+885,885,harpia,Inhouse Kubernetes Cluster,Shell,10,5,Apache-2.0
+886,886,pjflate,Açıklama yok,Java,2,2,Apache-2.0
+887,887,us-altgr-intl,Açıklama yok,Perl,10,7,Apache-2.0
+888,888,error-prone-javac,A mirror of the OpenJDK langtools repository,Java,32,17,GPL-2.0
+889,889,iosched-ios,The Google I/O iOS app,Swift,184,37,Apache-2.0
+890,890,grassland,Node middleware that exposes a Git to a CDN,TypeScript,3,2,Apache-2.0
+891,891,android-gradle-dsl,DSL reference for the Android plugin for Gradle.,HTML,740,103,Apache-2.0
+892,892,go-tspi,TSPI bindings for golang,Go,41,17,Apache-2.0
+893,893,gwt-charts,Automatically exported from code.google.com/p/gwt-charts,Java,23,26,Lisans yok
+894,894,wwwbasic,wwwBASIC is an implementation of BASIC that runs on Node.js and the Web.,JavaScript,"1,098",59,Apache-2.0
+895,895,git-patrol,Açıklama yok,Python,5,2,Apache-2.0
+896,896,codewords,Açıklama yok,TypeScript,4,4,Apache-2.0
+897,897,horenso,探しやすいコードで漢字直接入力,Perl,49,10,Apache-2.0
+898,898,dynamic-form,Açıklama yok,TypeScript,10,7,Apache-2.0
+899,899,n-digit-mnist,Açıklama yok,Python,24,11,Apache-2.0
+900,900,security-research-pocs,Proof-of-concept codes created as part of security research done by Google Security Team.,C++,879,161,Apache-2.0
+901,901,slothfs,Açıklama yok,Go,36,8,Apache-2.0
+902,902,carfac,Cascade of Asymmetric Resonators with Fast-Acting Compression cochlear model.,MATLAB,60,25,Apache-2.0
+903,903,e3d_lstm,e3d-lstm; Eidetic 3D LSTM A Model for Video Prediction and Beyond,Python,56,21,Apache-2.0
+904,904,android-lint-performance-probe,A tool to help pinpoint performance bottlenecks in individual Android Lint checks.,Kotlin,65,7,Apache-2.0
+905,905,multichase,Açıklama yok,C,27,25,Apache-2.0
+906,906,pagespeed-inslides,HTML5 Slide Deck Generator Tool Based on the PageSpeed Insights API,JavaScript,50,17,Apache-2.0
+907,907,go-structeditor,User interface library for editing arbitrary Go structures using a UI rendered in HTML.,Go,24,3,Apache-2.0
+908,908,trueview-sdf-generator,Açıklama yok,JavaScript,3,4,Apache-2.0
+909,909,agera,Reactive Programming for Android,Java,"7,346",675,Apache-2.0
+910,910,rekall-profiles,Public Profile Repository for Rekall Memory Forensic.,HTML,85,49,Lisans yok
+911,911,capsicum-test,Test suite for Capsicum,C++,34,20,Lisans yok
+912,912,cbortree,"CborTree: A Java Library for decoding, manipulating, and encoding CBOR data items.",Java,7,3,Apache-2.0
+913,913,navc,C code indexer using language semantic from clang,Go,54,13,Apache-2.0
+914,914,ukey2,Açıklama yok,Java,8,2,Lisans yok
+915,915,skicka,Command-line utility for working with Google Drive. Join the mailing list at https://groups.google.com/forum/#!forum/skicka-users.,Go,"1,042",108,Apache-2.0
+916,916,revisiting-self-supervised,Açıklama yok,Python,220,19,Apache-2.0
+917,917,ios-chatbot,Açıklama yok,Objective-C,80,31,Apache-2.0
+918,918,streetview-publish-client-libraries,Açıklama yok,Java,9,9,Apache-2.0
+919,919,pywebsocket,WebSocket server and extension for Apache HTTP Server for testing,Python,256,139,BSD-3-Clause
+920,920,tamperchrome,Tamper Chrome is a Chrome extension that allows you to modify HTTP requests on the fly and aid on web security testing. Tamper Chrome works across all operating systems (including Chrome OS).,JavaScript,"3,648",194,Apache-2.0
+921,921,codemirror-mode-jsonnet,Açıklama yok,JavaScript,9,6,Apache-2.0
+922,922,vimdoc,Helpfile generation for vim,Python,207,23,Apache-2.0
+923,923,fidi,Açıklama yok,C++,3,2,Apache-2.0
+924,924,ps_log,Açıklama yok,PowerShell,6,4,Apache-2.0
+925,925,graphd,The Metaweb graph repository server,C,383,45,Apache-2.0
+926,926,jws,JSON Web Signature (JWS),Python,41,13,Apache-2.0
+927,927,support-tools,Automatically exported from code.google.com/p/support-tools,Python,26,30,Apache-2.0
+928,928,butteraugli,butteraugli estimates the psychovisual difference between two images,C++,"1,553",110,Apache-2.0
+929,929,wikiloop-datasets,Açıklama yok,Dil yok,5,3,Lisans yok
+930,930,vk_callback_swapchain,Açıklama yok,C++,1,11,Apache-2.0
+931,931,angular_cli,Açıklama yok,Dart,56,23,BSD-3-Clause
+932,932,heroku-buildpack-bazel,Açıklama yok,Shell,4,11,Apache-2.0
+933,933,end-to-end,"End-To-End is a crypto library to encrypt, decrypt, digital sign, and verify signed messages (implementing OpenPGP and OTR)",JavaScript,"3,867",326,Apache-2.0
+934,934,s2-geometry-library-java,Automatically exported from code.google.com/p/s2-geometry-library-java,Java,335,144,Apache-2.0
+935,935,skylark,"Skylark in Go: the Skylark configuration language, implemented in Go [MOVED to go.starlark.net]",Go,"1,142",79,BSD-3-Clause
+936,936,language-jsonnet,Jsonnet language support for the Atom text editor,Dil yok,16,9,Lisans yok
+937,937,image-rebase,Remotely rebase container images,Go,34,5,Apache-2.0
+938,938,vc-defer,Açıklama yok,Emacs Lisp,0,2,GPL-3.0
+939,939,zsldemo,Açıklama yok,Kotlin,6,2,Apache-2.0
+940,940,firing-range,Açıklama yok,Java,938,182,Apache-2.0
+941,941,easy-grid,easy-grid is a React component factory that provides a declarative layout mechanism for utilizing CSS grid layouts.,JavaScript,26,11,Apache-2.0
+942,942,platform_benchmarks,Açıklama yok,Dil yok,1,3,Lisans yok
+943,943,keps,Açıklama yok,Go,4,4,Apache-2.0
+944,944,hyou,Pythonic Interface to manipulate Google Spreadsheet.,Python,99,25,Apache-2.0
+945,945,audion,Audion (Web Audio Inspector) is a Chrome extension that adds a Web Audio panel to Developer Tools. This panel visualizes the web audio graph in real-time and lets users inspect nodes.,JavaScript,178,22,Lisans yok
+946,946,shipshape,Program analysis platform,Go,230,30,Apache-2.0
+947,947,glslang,ARCHIVED: Khronos reference front-end for GLSL and ESSL,Dil yok,33,403,Lisans yok
+948,948,quark,Açıklama yok,C,4,2,Apache-2.0
+949,949,MOE,Make Opensource Easy - tools for synchronizing repositories,Java,354,66,Apache-2.0
+950,950,vr180,Açıklama yok,Java,11,5,Apache-2.0
+951,951,osdetector-gradle-plugin,"A Gradle plugin that detects the OS name and architecture, providing a uniform classifier to be used in the names of native artifacts.",Java,65,18,Apache-2.0
+952,952,adiantum,Adiantum and HPolyC specification and test vectors,C++,395,41,MIT
+953,953,novm,"Experimental KVM-based VMM for containers, written in Go.",Go,"1,526",126,Apache-2.0
+954,954,orismologer,Orismologer is a network telemetry translation framework written in Go,Go,5,4,Apache-2.0
+955,955,blockly-tools,tools for developing Blockly,Shell,7,15,Apache-2.0
+956,956,basicbokeh,Açıklama yok,Kotlin,20,9,Apache-2.0
+957,957,stm32_bare_lib,"System functions and example code for programming the ""Blue Pill"" STM32-compatible micro-controller boards.",C,101,29,Apache-2.0
+958,958,chord,A framework for developers to create cross-device wearable interaction by scripting.,JavaScript,19,8,Apache-2.0
+959,959,microscopeimagequality,Açıklama yok,Python,53,22,Apache-2.0
+960,960,qpp,Querypoint Debugging Prototype,JavaScript,38,12,Lisans yok
+961,961,google-visualization-python,Automatically exported from code.google.com/p/google-visualization-python,Python,108,52,Apache-2.0
+962,962,cordova-plugin-browsertab,"A Cordova plugin that provides an interface to in-app browser tabs that exist on some mobile platforms, such as SFSafariViewController on iOS and CustomTabs on Android.",Java,90,90,Apache-2.0
+963,963,go-microservice-helpers,A collection of handy snippets that simplify creation of GRPC servers and clients,Go,372,27,Apache-2.0
+964,964,gxui,An experimental Go cross platform UI library.,Go,"4,383",305,BSD-3-Clause
+965,965,categorybuilder,Açıklama yok,Python,62,17,Apache-2.0
+966,966,renameio,Package renameio provides a way to atomically create or replace a file or symbolic link.,Go,383,12,Apache-2.0
+967,967,go-cabfile,Açıklama yok,Go,1,2,Apache-2.0
+968,968,bazel_rules_install,Bazel rules for installing build results. Similar to `make install`.,Shell,5,4,Apache-2.0
+969,969,node-sec-roadmap,Some thoughts on how Node.js might respond to a changing security environment,JavaScript,152,21,Lisans yok
+970,970,wwgc,"viewer profile generator for ""Works with Google Cardboard""",JavaScript,35,18,Apache-2.0
+971,971,gdata-java-client,Automatically exported from code.google.com/p/gdata-java-client,Java,115,104,Apache-2.0
+972,972,magic-github-proxy,An access-limiting stateless GitHub API Proxy,Python,53,3,Apache-2.0
+973,973,ezgantt,ezGantt main,JavaScript,80,19,Apache-2.0
+974,974,emoji-segmenter,Emoji Segmenter,C,12,4,Apache-2.0
+975,975,mobly-snippet-lib,Mobly Snippet Lib is a library for triggering device-side code from host-side Mobly tests.,Dil yok,18,18,Lisans yok
+976,976,tie,Açıklama yok,JavaScript,367,58,Apache-2.0
+977,977,gtm_load_timer,A framework and instrument for timing Objective C +load messages.,Objective-C,26,3,Apache-2.0
+978,978,shenzhen-go,Experimental visual Go environment,JavaScript,427,40,Apache-2.0
+979,979,vapso,Açıklama yok,JavaScript,1,2,Apache-2.0
+980,980,hangouts-chat-bot-cloud-function-nodejs-example,Example of a Hangouts Chat Bot on Google Cloud Functions,JavaScript,7,4,Apache-2.0
+981,981,googletv-android-samples,Source for many GoogleTV Example applications.,Java,155,78,Lisans yok
+982,982,supl-client,Açıklama yok,Java,14,8,Apache-2.0
+983,983,redgrep,♥ Janusz Brzozowski,C++,123,17,Apache-2.0
+984,984,supersonic,"Supersonic is an ultra-fast, column oriented query engine library written in C++",C++,136,40,Apache-2.0
+985,985,flutter_flux,Implementation of the Flux framework for Flutter,Dart,337,27,Apache-2.0
+986,986,arrow-logo,Açıklama yok,Dart,9,7,Apache-2.0
+987,987,dbm-lineitem-copier,Açıklama yok,JavaScript,9,6,Apache-2.0
+988,988,dcm-bulk-trafficking,Açıklama yok,JavaScript,5,5,Apache-2.0
+989,989,google-api-objectivec-client,Google APIs Client Library for Objective-C,Dil yok,304,146,Lisans yok
+990,990,sshkey-audit,Automate SSH key management,Go,51,8,Apache-2.0
+991,991,mirandum,Açıklama yok,Python,9,10,Apache-2.0
+992,992,radioreceiver,An application to listen to broadcast stereo FM and AM radio from your Chrome browser or your ChromeBook computer using a $15 USB digital TV tuner.,JavaScript,306,71,Apache-2.0
+993,993,contentbox,"Distribution of social and virtual content with an open and collaborative educational environment, available to communities around the world in one place, with a standard format and quality",CSS,30,21,Apache-2.0
+994,994,macops-planb,Plan B is a remediation program for managed Macs,Objective-C,116,18,Apache-2.0
+995,995,play-apk-expansion,Açıklama yok,Java,54,44,Apache-2.0
+996,996,galogen,OpenGL Loader Generator,C++,23,8,Apache-2.0
+997,997,meta_tagger,Açıklama yok,Python,24,9,Apache-2.0
+998,998,btls,BoringSSL-backed TLS and cryptography library for Haskell,Haskell,11,7,Lisans yok
+999,999,opuscpp,c++ wrapper around libopus,C++,4,6,Apache-2.0
+1000,1000,pub_cache,A library to reflect on the local pub cache.,Dart,7,6,BSD-3-Clause
+1001,1001,html-quiz,"A stand-alone, HTML+JavaScript quiz script.",JavaScript,76,68,Lisans yok
+1002,1002,tfjs-mnist-workshop,E2E TensorFlow workshop from model training using Keras API all the way to visualization using TensorFlow.js,Jupyter Notebook,2,3,Apache-2.0
+1003,1003,credstore,Credstore is a centralized auth server,Go,52,10,Apache-2.0
+1004,1004,khll-paper-experiments,Açıklama yok,Dil yok,4,4,Lisans yok
+1005,1005,link022,Link022 - an open WiFi access point,Go,107,25,Apache-2.0
+1006,1006,xsecurelock-saver-rs,Rust + SFML Screensavers for XSecureLock,Rust,6,3,Apache-2.0
+1007,1007,capillary,Capillary is a library to simplify the sending of end-to-end encrypted push messages from Java-based application servers to Android clients.,Java,427,35,Apache-2.0
+1008,1008,active-qa,Açıklama yok,Python,305,52,Apache-2.0
+1009,1009,python-dimond,Python implementation of Telink Bluetooth mesh protocol,Python,11,5,Apache-2.0
+1010,1010,fonttools,"Fork of fonttools project from Sourceforge, with new features and bugfixes",Python,28,281,Lisans yok
+1011,1011,harfbuzz,HarfBuzz OpenType text shaping engine,C++,7,316,Lisans yok
+1012,1012,waze-ccp-gcp,"This AppEngine sample application is designed to process your Waze CCP JSON Feed into; BigQuery GIS tables for analysis, Google Cloud Storage as GeoJSON for use in desktop or web GIS applications, and, optionally into Carto for advanced spatial visualization.",Python,6,5,Apache-2.0
+1013,1013,roboto,The Roboto family of fonts,Python,"3,419",309,Apache-2.0
+1014,1014,google-authenticator,Open source version of Google Authenticator (except the Android app),Java,"3,952",795,Apache-2.0
+1015,1015,detectorgraph,"Strongly-typed, dependency based application framework for code/data separation with dependency injection and data passing.",C++,36,12,Apache-2.0
+1016,1016,node-dependency-analysis,Açıklama yok,TypeScript,8,5,Apache-2.0
+1017,1017,watchpresenter,Pass your slides on Google Drive using your phone or watch,Java,22,10,Apache-2.0
+1018,1018,angular-a11y-workshop,Açıklama yok,TypeScript,5,4,Apache-2.0
+1019,1019,syzygy,Syzygy Transformation Toolchain,C++,285,55,Apache-2.0
+1020,1020,cloudprint_logocert,Google Cloud Print Logo Certification Automation,Python,22,27,Apache-2.0
+1021,1021,cdep,"CDep is a decentralized native package dependency manager with a focus on Android. Runs on Windows, Linux, and MacOS.",Java,76,22,Apache-2.0
+1022,1022,oodle-demo,Oodle - an unofficial Google Doodles web app,HTML,63,12,Apache-2.0
+1023,1023,codeu_project_2018,Açıklama yok,Java,8,5,Apache-2.0
+1024,1024,physical-web,The Physical Web: walk up and use anything,Java,"6,084",714,Apache-2.0
+1025,1025,rich-test-results,Understand a test failure,Java,49,16,Apache-2.0
+1026,1026,dana,Test/benchmark regression and comparison system with dashboard,JavaScript,40,12,Apache-2.0
+1027,1027,ioweb2016,I/O web app 2016,HTML,519,103,Apache-2.0
+1028,1028,libpam-policycache,Password caching module with advanced policies for PAM.,C,27,13,Apache-2.0
+1029,1029,blue-green-deployment-controller,A basic blue-green deployment custom controller,Go,37,9,Lisans yok
+1030,1030,cornerstone,JavaScript library to display interactive medical images including but not limited to DICOM,JavaScript,3,414,MIT
+1031,1031,google-api-java-client-samples,Açıklama yok,Java,666,"1,078","1,078"
+1032,1032,appengine-jenkins,Açıklama yok,Shell,32,23,Apache-2.0
+1033,1033,files.dart,A filesystem API with implementations for multiple environments,Dart,17,12,Lisans yok
+1034,1034,Safelight,Safelight is a web application that aids in developing Halide programs. It currently works for x86-64 Linux and Mac OS machines running the PNaCl binary distribution of Halide.,JavaScript,16,7,Apache-2.0
+1035,1035,blkcgroup,Automatically exported from code.google.com/p/blkcgroup,Python,6,6,Apache-2.0
+1036,1036,cpython-pt,Fork from python/cpython,Python,7,13,Lisans yok
+1037,1037,compare-codecs,Açıklama yok,Python,33,13,Apache-2.0
+1038,1038,protobuf-dt,Açıklama yok,Java,34,18,Lisans yok
+1039,1039,androguard,"Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)",Python,144,758,Apache-2.0
+1040,1040,cpp-netlib,"The C++ Network Library Project -- header-only, cross-platform, standards compliant networking library.",C++,297,569,BSL-1.0
+1041,1041,mysql,Automatically exported from code.google.com/p/google-mysql,C++,37,60,LGPL-2.1
+1042,1042,sawbuck,Automatically exported from code.google.com/p/sawbuck,C++,59,35,Lisans yok
+1043,1043,chrome-opt-out-extension,DEPRECATED: Keep My Opt-Outs. Replaced by Protect My Choices.,JavaScript,8,12,Lisans yok
+1044,1044,uribeacon,The Web Uri Open Beacon for the Internet of Things,Dil yok,408,115,Lisans yok
+1045,1045,ohmu,Compiler intermediate language for static analysis.,C++,95,21,Apache-2.0
+1046,1046,recki-ct,Açıklama yok,PHP,556,40,Apache-2.0
+1047,1047,url_diff,Açıklama yok,Python,86,32,Apache-2.0
+1048,1048,filesystem-proposal,Boost Filesystem Library with modifications for the C++ standards committee proposal,C++,13,21,Lisans yok
+1049,1049,developer.github.com,GitHub API documentation,Ruby,16,"1,316","1,316"
+1050,1050,helloargdx,Investigating using ARCore preview with LibGDX. See https://medium.com/@wilkinsonclay/investigating-arcore-with-libgdx-f69b83764118 for more info,Java,40,12,Lisans yok
+1051,1051,nodejs-wiki,Açıklama yok,JavaScript,5,2,Apache-2.0
+1052,1052,santa-tracker-web,Ho Ho Ho,JavaScript,426,106,Lisans yok
+1053,1053,emoji4unicode,Automatically exported from code.google.com/p/emoji4unicode,Python,44,17,Lisans yok
+1054,1054,closure-linter,Automatically exported from code.google.com/p/closure-linter,Python,101,31,Apache-2.0
+1055,1055,capsicum-linux,Linux kernel with Capsicum support,C,193,34,Lisans yok
+1056,1056,ced,Açıklama yok,C++,50,14,Apache-2.0
+1057,1057,blockly-devtools,Tools for Blockly app developers to help build custom blocks.,JavaScript,40,24,Apache-2.0
+1058,1058,mozart,Custom business logic for Search Ads 360,Python,6,3,Apache-2.0
+1059,1059,vsaq,VSAQ is an interactive questionnaire application to assess the security programs of third parties.,JavaScript,639,140,Apache-2.0
+1060,1060,universal-dash-transmuxer,UDT (Dash Transmuxer) Project: Can transmux DASH -> HLS or other formats.,C++,44,20,Apache-2.0
+1061,1061,tmppy,TMPPy is a subset of Python that can be compiled to C++ meta-functions using the py2tmp compiler.,Python,16,9,Apache-2.0
+1062,1062,chrome-ssh-agent,SSH Agent for use with Google Chrome's Secure Shell extension,Go,113,16,Apache-2.0
+1063,1063,hilbert,"Go package for mapping values to and from space-filling curves, such as Hilbert and Peano curves.",Go,193,28,Apache-2.0
+1064,1064,kasane,A simple kubernetes deployment manager,Python,149,14,Apache-2.0
+1065,1065,python-yaml-config,Açıklama yok,Python,10,3,Apache-2.0
+1066,1066,usbinfo,Açıklama yok,Python,37,24,Lisans yok
+1067,1067,cloud-berg,Berg - Run GPU-backed experiments on gcloud,Python,21,4,Apache-2.0
+1068,1068,fast-optimized-community-significance,Açıklama yok,R,2,2,Apache-2.0
+1069,1069,binplist,Binary property list (plist) parser,Python,33,20,Apache-2.0
+1070,1070,svalbard,Svalbard is a distributed backup system for long-term protection of secret data.,Go,27,4,Apache-2.0
+1071,1071,go-write,Please see https://github.com/google/renameio instead,Go,0,2,Apache-2.0
+1072,1072,cornerstoneWADOImageLoader,DICOM WADO Image Loader for the cornerstone library,JavaScript,1,148,MIT
+1073,1073,cornerstoneTools,A framework for tools built on top of Cornerstone.,JavaScript,1,286,MIT
+1074,1074,skia-buildbot,"Mirrored from
+            
+              https://skia.googlesource.com/buildbot",Go,92,50,Lisans yok
+1075,1075,sa360-bulk-editor,Açıklama yok,JavaScript,0,1,Apache-2.0
+1076,1076,music-synthesizer-for-android,Automatically exported from code.google.com/p/music-synthesizer-for-android,Jupyter Notebook,278,63,Apache-2.0
+1077,1077,election-au-2016,Source code for the Australian Election 2016 visualisation,Go,88,32,Lisans yok
+1078,1078,fancy-regex,Açıklama yok,Rust,170,12,MIT
+1079,1079,sg2im,"Code for ""Image Generation from Scene Graphs"", Johnson et al, CVPR 2018",Python,"1,054",162,Apache-2.0
+1080,1080,realestate10k,Code for the RealEstate10K Dataset webpage.,HTML,1,3,Apache-2.0
+1081,1081,domaintest,Domain Test service for new TLDs.,Java,68,18,Apache-2.0
+1082,1082,asymproj_edge_dnn,Açıklama yok,Python,19,10,Apache-2.0
+1083,1083,tuneup.dart,A command-line tool to manipulate and inspect your Dart projects.,Dart,39,12,BSD-3-Clause
+1084,1084,google-gdata,Automatically exported from code.google.com/p/google-gdata,C#,9,14,Lisans yok
+1085,1085,gsps-support-tool,"Support tool for G Suite Password Sync (GSPS), formerly Google Apps Password Sync (GAPS)",Visual Basic,7,12,Apache-2.0
+1086,1086,bottlerocket,Açıklama yok,Scala,76,17,Apache-2.0
+1087,1087,pandas,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",Python,24,"9,318","9,318"
+1088,1088,cog,Code for the COG dataset and network,Python,34,6,Apache-2.0
+1089,1089,gtm-currency-rates-sync,A script for setting up an up to date GTM (Google Tag Manager) Lookup Table variable with all the currency rates available in Google Finance data via sheets,JavaScript,5,5,Apache-2.0
+1090,1090,eslint-closure,ESLint Plugin and Config for the Google JavaScript Style Guide,JavaScript,17,14,Apache-2.0
+1091,1091,python-temescal,Python control for LG speaker systems,Python,8,4,Apache-2.0
+1092,1092,bottery,Açıklama yok,JavaScript,"3,316",166,Apache-2.0
+1093,1093,sa360-flightsfeed,Generate SA360 compatible feeds for airlines on BigQuery 🚀,JavaScript,7,3,Apache-2.0
+1094,1094,eme_logger,Açıklama yok,JavaScript,18,6,Apache-2.0
+1095,1095,audio-sync-kit,Açıklama yok,Python,37,11,Apache-2.0
+1096,1096,BucketServer,"Serve GCS Bucket content anonymously from Windows, Linux and MacOS",Go,2,2,Apache-2.0
+1097,1097,randen,Fast backtracking-resistant random generator: https://arxiv.org/abs/1810.02227,C++,290,24,Apache-2.0
+1098,1098,ORFConverter,Açıklama yok,C#,2,5,Apache-2.0
+1099,1099,chatbase-dotnet,Integrate your DotNet application with Chatbase!,C#,12,13,Apache-2.0
+1100,1100,dtask,DTask is a scheduler for statically dependent tasks.,C,12,13,Apache-2.0
+1101,1101,virtual-tutors,Açıklama yok,HTML,3,6,Apache-2.0
+1102,1102,ioweb2015,I/O Web App 2015,JavaScript,698,122,Apache-2.0
+1103,1103,minions,Distributed filesystem scanner,Go,94,12,Apache-2.0
+1104,1104,gdata-objectivec-client,Google Data APIs Objective-C Client Library,Objective-C,161,85,Apache-2.0
+1105,1105,pyu2f,"pyu2f is a python based U2F host library for Linux, Windows, and MacOS. It provides functionality for interacting with a U2F device over USB.",Python,55,19,Apache-2.0
+1106,1106,uri.dart,Utilities for working with URIs in Dart,Dart,57,45,Lisans yok
+1107,1107,macops-MOLFCMClient,Açıklama yok,Objective-C,10,9,Apache-2.0
+1108,1108,TrustScore,To Trust Or Not To Trust A Classifier. A measure of uncertainty for any trained (possibly black-box) classifier which is more effective than the classifier's own implied confidence (e.g. softmax probability for a neural network).,Jupyter Notebook,88,26,Apache-2.0
+1109,1109,dnae,Açıklama yok,Python,4,3,Apache-2.0
+1110,1110,render-timing-for-unity,GPU time metric for Unity apps (currently limited to Android/GLES),C++,67,19,Apache-2.0
+1111,1111,detangle,Açıklama yok,JavaScript,145,14,Apache-2.0
+1112,1112,pg_page_verification,Açıklama yok,C,104,6,Lisans yok
+1113,1113,todo-tracks,Web dashboard for tracking the TODOs in a Git repo,Go,138,23,Apache-2.0
+1114,1114,digitalassetlinks,Açıklama yok,PureBasic,41,18,Apache-2.0
+1115,1115,obno,Açıklama yok,0,0,1,Lisans yok
+1116,1116,closure-compiler-js,Package for the JS version of closure-compiler for use via NPM,JavaScript,"1,863",93,Apache-2.0
+1117,1117,patrick,Parameterized testing in R is kind of cool!,R,50,10,Apache-2.0
+1118,1118,chatbase-python,Integrate your Python application with Chatbase!,Python,54,38,Apache-2.0
+1119,1119,layered-scene-inference,"Code accompanying the paper ""Layer-structured 3D Scene Inference via View Synthesis"", ECCV 2018",Python,59,14,Apache-2.0
+1120,1120,chaps-linux,PKCS#11 Implementation for Linux,Makefile,29,9,BSD-3-Clause
+1121,1121,eclipse2017,Source code for North American Eclipse 2017 Megamovie project,Python,12,9,Apache-2.0
+1122,1122,amp-toolbox,A collection of AMP tools making it easier to publish and host AMP pages.,JavaScript,9,118,Apache-2.0
+1123,1123,quickshift,A clustering algorithm that first finds the high-density regions (cluster-cores) of the data and then clusters the remaining points by hill-climbing. Such seedings act as more stable and expressive cluster-cores than the singleton modes found by popular algorithm such as mean shift. (https://arxiv.org/abs/1805.07909),C++,38,10,Apache-2.0
+1124,1124,web-audio-recognition,Açıklama yok,Jupyter Notebook,62,21,Apache-2.0
+1125,1125,coursebuilder-resources,Açıklama yok,Shell,11,13,Lisans yok
+1126,1126,0x0g-2018-badge,Açıklama yok,C,15,3,Apache-2.0
+1127,1127,dbm-trix-addon,Açıklama yok,JavaScript,2,3,Apache-2.0
+1128,1128,fplutil,fplutil is a set of small libraries and tools that can be useful when developing applications for Android and other platforms.,Python,315,39,Apache-2.0
+1129,1129,coursebuilder-releases,Açıklama yok,Dil yok,20,14,Lisans yok
+1130,1130,google-visualization-java,Automatically exported from code.google.com/p/google-visualization-java,Java,28,33,Lisans yok
+1131,1131,mysql-protobuf,Açıklama yok,C++,95,28,GPL-2.0
+1132,1132,asr-recipes,Açıklama yok,Shell,7,4,Apache-2.0
+1133,1133,aff4,The Advanced Forensic File Format. NOTE: This project has been split into C and Python projects and moved to https://github.com/aff4/pyaff4 and https://github.com/Velocidex/c-aff4,C++,87,35,Apache-2.0
+1134,1134,ssl_logger,Decrypts and logs a process's SSL traffic.,Python,714,88,Apache-2.0
+1135,1135,where-am-i,Wear OS Complication to tell you your current GPS location,Java,3,4,Apache-2.0
+1136,1136,identity-aware-prober,Açıklama yok,Go,7,3,Apache-2.0
+1137,1137,xrtl,Cross-platform Real-Time Rendering Library,C++,101,19,Apache-2.0
+1138,1138,hotel-ads-etl-tool,Tool to extract information from Hotel Ads API to BigQuery.,Python,1,2,Apache-2.0
+1139,1139,token_bind,Açıklama yok,C,19,12,Apache-2.0
+1140,1140,walt,A device for measuring latency of physical sensors and outputs on phones and computers,Java,367,70,Apache-2.0
+1141,1141,functional-objc,Functional operators for Objective-C,Objective-C,320,11,Apache-2.0
+1142,1142,weighted-dict,Açıklama yok,Python,15,5,Apache-2.0
+1143,1143,differentiable-atomistic-potentials,Automatically differentiable atomistic potentials for molecular simulations,Python,33,2,Apache-2.0
+1144,1144,gitprotocolio,A Git protocol parser written in Go.,Go,350,13,Apache-2.0
+1145,1145,swift-integration-tests,Automated tests for validating the generated Swift snapshots behave correctly,Python,3,51,Lisans yok
+1146,1146,swift-compiler-rt,Açıklama yok,C,2,62,Lisans yok
+1147,1147,swift-llbuild,"A low-level build system, used by Xcode 9 and the Swift Package Manager",C++,2,148,Lisans yok
+1148,1148,swift-cmark,CommonMark parsing and rendering library and program in C,C,3,295,Lisans yok
+1149,1149,maddpg-replication,Açıklama yok,Jupyter Notebook,12,8,Apache-2.0
+1150,1150,node-armor,Açıklama yok,0,0,2,Lisans yok
+1151,1151,virtualdesktops-extension,Açıklama yok,JavaScript,23,12,Apache-2.0
+1152,1152,nips_assignments,"C++ code to help assign papers to reviewers, area chairs, etc in conferences like NIPS.",C++,10,8,Apache-2.0
+1153,1153,sparrowhawk,Açıklama yok,Shell,134,32,Apache-2.0
+1154,1154,zooshi,Multi-platform game where you feed well dressed animals with sushi,C++,273,59,Apache-2.0
+1155,1155,schemaorg-java,Java utilities for working with Schema.org data in JSON-LD format,Java,45,30,Apache-2.0
+1156,1156,http_prefetching,Açıklama yok,JavaScript,4,2,Apache-2.0
+1157,1157,kv-s3105c,Açıklama yok,C,3,1,Apache-2.0
+1158,1158,fastboot-mobile,Android library for sending fastboot commands from an Android device to a device running fastboot.,Kotlin,21,4,Apache-2.0
+1159,1159,amss,Açıklama yok,R,23,16,Apache-2.0
+1160,1160,search-samples,Sample code for integrating with Search.,Java,540,256,Apache-2.0
+1161,1161,makerfaire-booth,Code snippets for the Maker Faire 2016 Installation. This is not an official Google Product.,Python,9,12,Lisans yok
+1162,1162,abstreet,Açıklama yok,Rust,24,45,Apache-2.0
+1163,1163,dl_bounds,Açıklama yok,Python,11,3,Apache-2.0
+1164,1164,chrome-tabber,Açıklama yok,JavaScript,9,1,Apache-2.0
+1165,1165,beacon-platform,Code samples for Google's beacon platform,Dil yok,382,274,Lisans yok
+1166,1166,traceur-compiler,Traceur is a JavaScript.next-to-JavaScript-of-today compiler,JavaScript,"8,040",609,Apache-2.0
+1167,1167,dcm_bulk_onboarding,Açıklama yok,JavaScript,3,3,Apache-2.0
+1168,1168,fast-simple-lcsk,Fast and simple algorithms for computing both LCSk and LCSk+,C++,13,5,Apache-2.0
+1169,1169,WikipediaHomographData,Labeled data for homograph disambiguation,Dil yok,16,3,Lisans yok
+1170,1170,dcm-video-uploader,Python script to upload video creatives to DCM. The script creates the necessary structure under a provided DCM placement to target each video to a different geo location. One use case is creating dynamic video campaigns,Python,4,7,Apache-2.0
+1171,1171,TouchTime,Tells the time through vibration patterns on an Android smartwatch.,Java,34,17,Apache-2.0
+1172,1172,uniflow-polymer,UniFlow for Polymer,HTML,167,16,Apache-2.0
+1173,1173,ion,Ion,C++,"1,357",83,Apache-2.0
+1174,1174,rally,Açıklama yok,Java,30,5,Apache-2.0
+1175,1175,cabal2bazel,Haskell Bazel rules and cabal2bazel import tool.,Haskell,30,2,Apache-2.0
+1176,1176,wicked-good-xpath,Pure JS implementation of the DOM Level 3 XPath specification,JavaScript,221,46,MIT
+1177,1177,teknowledge,A basic CS curriculum for coding in Python.,Python,20,10,Apache-2.0
+1178,1178,gtm-oauth2,Google Toolbox for Mac - OAuth 2 Controllers,Objective-C,113,68,Apache-2.0
+1179,1179,clerk,Clerk is an open-source IPFIX generator using https://github.com/google/testimony for packet sniffing,C++,20,9,Apache-2.0
+1180,1180,nel-reporter-java,Network Error Logging (NEL) Java Reporter,Java,8,2,Apache-2.0
+1181,1181,midi-dump-tools,A collection of tools that dump MIDI to a variety of formats,C,20,11,Apache-2.0
+1182,1182,ahdlc,Açıklama yok,C,8,2,Apache-2.0
+1183,1183,aperture_supervision,Açıklama yok,Python,15,6,Apache-2.0
+1184,1184,samba-documents-provider,Access network file shares directly from the Android Downloads/Files app,Java,380,89,GPL-3.0
+1185,1185,dcm-trix-addon,Açıklama yok,JavaScript,2,2,Apache-2.0
+1186,1186,YetAnotherChatApp,Açıklama yok,Java,6,8,Apache-2.0
+1187,1187,makerspace-lipo-charger,Açıklama yok,Makefile,3,2,CC-BY-4.0
+1188,1188,grittibanzli,Açıklama yok,C++,10,2,Apache-2.0
+1189,1189,ds-trix-addon,Açıklama yok,JavaScript,10,9,Apache-2.0
+1190,1190,testimony,Açıklama yok,Go,77,18,Apache-2.0
+1191,1191,RED,RED - Regularization by Denoising,MATLAB,60,28,Apache-2.0
+1192,1192,hat-backup,Backend-agnostic snapshotting backup system,Rust,240,29,Lisans yok
+1193,1193,angular-sticky-element,Açıklama yok,TypeScript,18,6,Apache-2.0
+1194,1194,vae-seq,Variational Auto-Encoders in a Sequential Setting.,Python,127,22,Apache-2.0
+1195,1195,percy-node,Utilities for visual regression testing in node based testing setups (like Protractor) for use with percy.io,JavaScript,14,9,MIT
+1196,1196,cartoonset,Code for the Cartoon Set webpage.,HTML,5,4,Apache-2.0
+1197,1197,cloud-cup,Açıklama yok,JavaScript,18,8,MIT
+1198,1198,cloud-cup-android,Firebase Android client of the a multi device game,Java,40,29,Apache-2.0
+1199,1199,fest,Açıklama yok,Dil yok,5,6,Lisans yok
+1200,1200,decoupled_gaussian_process,Açıklama yok,Python,12,4,Apache-2.0
+1201,1201,safevarargs,Açıklama yok,Dil yok,4,9,Lisans yok
+1202,1202,har-sanitizer,Açıklama yok,Python,16,4,Apache-2.0
+1203,1203,password-alert,A Chrome Extension to help protect against phishing attacks.,JavaScript,236,76,Apache-2.0
+1204,1204,opentest,Açıklama yok,0,0,1,Lisans yok
+1205,1205,jsontoken,Automatically exported from code.google.com/p/jsontoken,Java,11,14,Lisans yok
+1206,1206,resumable-assert,Assert replacement to continue execution in debugger,C,145,4,Apache-2.0
+1207,1207,ruby-openid-apps-discovery,Açıklama yok,Ruby,33,18,Lisans yok
+1208,1208,guice-aqueduct,Guice binder to configure Chained instances to form a pipeline,Java,8,2,Apache-2.0
+1209,1209,encrypted-bigquery-client,An experimental version of the BQ client which adds client-side encryption,Python,153,29,Apache-2.0
+1210,1210,depan,"DepAn is a direct manipulation tool for visualization, analysis, and refactoring of dependencies in large applications.",Java,75,21,Apache-2.0
+1211,1211,rbe-integration-test,Açıklama yok,Python,2,2,Apache-2.0
+1212,1212,chained-promise,Functional programming tools for recurring promises,TypeScript,48,11,Apache-2.0
+1213,1213,synergyfinderengineered,Açıklama yok,R,4,1,MIT
+1214,1214,account-provisioning-for-google-apps,Açıklama yok,Java,46,22,Apache-2.0
+1215,1215,jarjar,Açıklama yok,Java,26,5,Apache-2.0
+1216,1216,amp-client-id-library,Açıklama yok,JavaScript,4,13,Apache-2.0
+1217,1217,go-trace,Açıklama yok,Go,22,4,Apache-2.0
+1218,1218,hell0world-curriculum,Curriculum for hell0world.org classes,HTML,4,4,Apache-2.0
+1219,1219,intelligent_annotation_dialogs,Açıklama yok,Jupyter Notebook,25,5,Apache-2.0
+1220,1220,git-sync-changes,Collaborative editing for git repositories,Shell,17,5,Apache-2.0
+1221,1221,cornerstoneMath,Math and computation geometry functionality for cornerstone,JavaScript,3,36,MIT
+1222,1222,burst-denoising,Açıklama yok,Python,194,43,Apache-2.0
+1223,1223,google-input-tools,Açıklama yok,JavaScript,165,102,Apache-2.0
+1224,1224,generativemloncloud,Açıklama yok,Python,41,15,Lisans yok
+1225,1225,aiyprojects-deeplearn-tensorflow,A TensorFlow integration for deeplearn.js which allows to load tensorflow checkpoint files directly.,TypeScript,33,7,Apache-2.0
+1226,1226,tensorflow-tools,A collection of manipulation tools for TensorFlow data.,JavaScript,14,6,Apache-2.0
+1227,1227,hugeml,Açıklama yok,0,0,4,Lisans yok
+1228,1228,coq-bpf,Coq BPF interpreter,Coq,6,2,Apache-2.0
+1229,1229,pinotify,Açıklama yok,Java,2,3,Apache-2.0
+1230,1230,CallBuilder,Make a Java builder by defining one function.,Java,89,25,Apache-2.0
+1231,1231,catnip,Catnip Sandbox,Python,20,7,Apache-2.0
+1232,1232,yaricv32,Açıklama yok,Verilog,4,4,Apache-2.0
+1233,1233,unigem-objective-c,"Unicode Gems, a Mac app, an iOS app, and an iOS keyboard for letter-like unicode.",Objective-C,14,5,Apache-2.0
+1234,1234,speech_style_transfer,Açıklama yok,HTML,1,4,Apache-2.0
+1235,1235,perf_api.dart,Açıklama yok,Dart,5,16,Apache-2.0
+1236,1236,golden,Açıklama yok,Go,13,3,Apache-2.0
+1237,1237,latency-benchmark,Tests web browser input latency and jank,C,437,42,Apache-2.0
+1238,1238,joint_vae,Code to build VAE models that are jointly conditioned.,OpenEdge ABL,28,8,Apache-2.0
+1239,1239,stumblybot,Simple robot that executes voice commands through Google Assistant.,Python,18,7,Apache-2.0
+1240,1240,mt,"Modern, minimalist, minty-fresh terminal",C++,43,12,MIT
+1241,1241,cornerstoneWebImageLoader,"Cornerstone Image Loader for Web Images (PNG, JPEG)",JavaScript,1,27,MIT
+1242,1242,prochlo,Açıklama yok,C++,20,9,Apache-2.0
+1243,1243,ipaddr-py,Google's Python IP address manipulation library,Python,172,61,Apache-2.0
+1244,1244,clif,Wrapper generator foundation to wrap C++ for Python and other languages using LLVM.,C++,778,97,Apache-2.0
+1245,1245,streamy-dart,Açıklama yok,Dart,61,32,Apache-2.0
+1246,1246,dicomParser,JavaScript parser for DICOM Part 10 data,JavaScript,2,149,MIT
+1247,1247,concourse-resources,Resources for Concourse,Go,18,8,Lisans yok
+1248,1248,wasserstein-dist,tensorflow implementation of the Wasserstein (aka optimal transport) distance,Python,37,11,Apache-2.0
+1249,1249,web-bsd-hunt,"Port of the networked real-time multi-player 2D maze war BSD game ""Hunt"" to Google App Engine and modern web browsers",Go,31,10,Apache-2.0
+1250,1250,vulkan-cpp-library,Açıklama yok,C++,227,26,Apache-2.0
+1251,1251,bbcpu,Açıklama yok,Verilog,4,6,Apache-2.0
+1252,1252,dev-on-chromeos-gce-setup,Açıklama yok,Shell,2,4,Apache-2.0
+1253,1253,pbvi,Açıklama yok,Python,2,6,Apache-2.0
+1254,1254,capture-thread,"Lock-free framework for loggers, tracers, and mockers in multithreaded C++ programs.",C++,82,28,Apache-2.0
+1255,1255,go-intervals,"A golang library for set operations on intervals, such as time ranges.",Go,82,10,Apache-2.0
+1256,1256,cityhash,Automatically exported from code.google.com/p/cityhash,Shell,611,120,Lisans yok
+1257,1257,safe-html-types,Security contract types,Java,43,9,Apache-2.0
+1258,1258,pblog,"Pblog is a small, low overhead, structured logging library",C,21,10,Lisans yok
+1259,1259,text2text,Açıklama yok,Python,47,15,Apache-2.0
+1260,1260,ce-open-data-set,Açıklama yok,Dil yok,4,13,Lisans yok
+1261,1261,hana-bq-beam-connector,An Apache Beam pipeline used to sync data from SAP Hana to Google BigQuery.,Dil yok,1,7,Lisans yok
+1262,1262,voice-iot-maker-demo,Google Actions + Particle Photon (via Dialogflow),JavaScript,61,22,Apache-2.0
+1263,1263,terminal-app-function-keys,Terminal.app configuration handling Fn keys right,Python,59,16,Apache-2.0
+1264,1264,FakeMaker,Devtool ext. to create DOM 'fake' for JS benchmarks,JavaScript,17,13,BSD-3-Clause
+1265,1265,genomics-protos,Açıklama yok,Python,5,4,Apache-2.0
+1266,1266,clicktrackers-panel,Açıklama yok,Python,2,4,Apache-2.0
+1267,1267,dotty,Açıklama yok,Python,44,13,Apache-2.0
+1268,1268,python-gflags,Python implementation of the Google commandline flags module.,Python,177,59,BSD-3-Clause
+1269,1269,yara-procdump-python,A Python extension to wrap the Yara process memory access API.,C,6,4,Apache-2.0
+1270,1270,streaming_hdp,Açıklama yok,Go,1,4,Apache-2.0
+1271,1271,coursebuilder-android-container-module,Açıklama yok,Python,16,10,Apache-2.0
+1272,1272,fscryptctl,Small C tool for Linux filesystem encryption,C,44,18,Apache-2.0
+1273,1273,sync3k-server,Açıklama yok,Scala,14,5,Apache-2.0
+1274,1274,tern-closure,A Tern plugin adding Closure support.,JavaScript,32,14,Apache-2.0
+1275,1275,helm-broker,Açıklama yok,Go,33,9,Apache-2.0
+1276,1276,amt-forensics,Retrieve Intel AMT's Audit Log from a Linux machine without knowing the admin user's password.,Python,34,4,Apache-2.0
+1277,1277,ndash,Açıklama yok,C++,34,11,Apache-2.0
+1278,1278,VRD,Açıklama yok,Python,4,3,Apache-2.0
+1279,1279,sync3k-client,Açıklama yok,TypeScript,12,5,Apache-2.0
+1280,1280,gulava,Relational programming library for Java.,Java,34,11,MIT
+1281,1281,acme,A simple ACME command line tool without 3rd party deps!,Go,364,48,Apache-2.0
+1282,1282,dart-sync-webdriver,WebDriver API for Dart,Dart,18,19,Apache-2.0
+1283,1283,dart-sync-socket,A Dart VM Native Extension and supporting Dart libraries that provide synchronous socket and HTTP client support.,Dart,20,24,Apache-2.0
+1284,1284,Legilimency,Açıklama yok,Python,98,12,Apache-2.0
+1285,1285,mipsqa,Açıklama yok,Python,24,6,Apache-2.0
+1286,1286,argtail-check,Açıklama yok,Go,2,3,Apache-2.0
+1287,1287,devicehub,Açıklama yok,Java,7,7,Apache-2.0
+1288,1288,gtd-txt,Getting Things Done in plain text,Shell,13,3,Apache-2.0
+1289,1289,bitutils,scripts to ease working with binary numbers,Python,8,6,Apache-2.0
+1290,1290,sonic-midi,Plays melodies in SonicPi while converting them to MIDI,Ruby,7,4,Apache-2.0
+1291,1291,gumbel_sinkhorn,Açıklama yok,Python,45,15,Apache-2.0
+1292,1292,arc-xcode-test-engine,An Xcode test engine for use with Phabricator's arc command line tool.,PHP,30,11,Apache-2.0
+1293,1293,verilogpp,Açıklama yok,Perl,3,4,Apache-2.0
+1294,1294,shell-encryption,Açıklama yok,C++,19,10,Apache-2.0
+1295,1295,energystrategies,Açıklama yok,TypeScript,9,5,Apache-2.0
+1296,1296,marmot,Marmot workflow execution engine,Go,164,8,Apache-2.0
+1297,1297,clojure-turtle,A Clojure library that implements the Logo programming language in a Clojure context,Clojure,395,33,Apache-2.0
+1298,1298,hdrnet,"An implementation of 'Deep Bilateral Learning for Real-Time Image Enhancement', SIGGRAPH 2017",Python,361,215,Apache-2.0
+1299,1299,dev-on-chromeos-che,Açıklama yok,Dil yok,1,3,Lisans yok
+1300,1300,dev-on-chromeos-openvpn,Açıklama yok,Shell,6,6,Apache-2.0
+1301,1301,keytransparency-java,The Java Client for Key Transparency,Java,3,5,Apache-2.0
+1302,1302,jacs,Açıklama yok,Python,11,11,Apache-2.0
+1303,1303,bocado,Açıklama yok,Python,4,7,Apache-2.0
+1304,1304,anvil-build,A parallel build system and content pipeline,Python,50,18,Lisans yok
+1305,1305,river,Açıklama yok,0,0,2,Lisans yok
+1306,1306,trix-auto-complete,Plugin for autocomplete using trix editor,JavaScript,7,3,Apache-2.0
+1307,1307,MAB,R package for Multi-Armed Bandit Simulation Study,R,24,9,Apache-2.0
+1308,1308,devtools-driver,Açıklama yok,Java,9,6,Apache-2.0
+1309,1309,maps-for-work-samples,Açıklama yok,Dil yok,115,151,Lisans yok
+1310,1310,ios-device-control,Açıklama yok,Java,25,4,Apache-2.0
+1311,1311,idris-protobuf,A partial implementation of Protocol Buffers in Idris,Idris,24,5,Apache-2.0
+1312,1312,energysimulation,Açıklama yok,Jupyter Notebook,55,11,Lisans yok
+1313,1313,pyrios,Açıklama yok,Go,46,20,Apache-2.0
+1314,1314,ndprbrd,NDP Routing Bridge Daemon,C++,29,12,Apache-2.0
+1315,1315,thread-weaver,A Java framework for testing multithreaded code.,Java,241,51,Apache-2.0
+1316,1316,cwd_jmp,Açıklama yok,Shell,4,4,Apache-2.0
+1317,1317,kratu,Açıklama yok,JavaScript,280,32,Apache-2.0
+1318,1318,codeu_coding_assessment_b_2017,This project allows students to demonstrate their coding skills by implementing a component of a larger system.,Java,5,56,Apache-2.0
+1319,1319,coverage,Açıklama yok,Emacs Lisp,20,8,Apache-2.0
+1320,1320,jscin,Automatically exported from code.google.com/p/jscin,JavaScript,28,14,Apache-2.0
+1321,1321,ts-gulp,Açıklama yok,0,0,1,Lisans yok
+1322,1322,asset-check,Check your .well-known/assetlinks.json file on the cli,JavaScript,17,6,Apache-2.0
+1323,1323,git-annex-external-gcs,Açıklama yok,0,0,1,Lisans yok
+1324,1324,makerspace-emonth,Açıklama yok,KiCad Layout,3,5,CC-BY-4.0
+1325,1325,paper-gui,A clone of dat.GUI using nice Polymer paper elements.,HTML,25,18,Apache-2.0
+1326,1326,prettytensor,Pretty Tensor: Fluent Networks in TensorFlow,Python,"1,230",143,Apache-2.0
+1327,1327,testrunner-rosemary,Açıklama yok,Java,1,5,Apache-2.0
+1328,1328,spline,A sample app that demonstrates Android's data binding library in the context of a vector drawing application.,Java,22,11,Apache-2.0
+1329,1329,creatism,Açıklama yok,HTML,24,12,Lisans yok
+1330,1330,mockable_filesystem.dart,Utility library that can be used to write code that can in turn be tested with mocked files and directories.,Dart,9,14,Lisans yok
+1331,1331,okay,Açıklama yok,Go,14,5,Lisans yok
+1332,1332,vmregistry,VM Registry — manage and provision your VMs,Go,16,10,Apache-2.0
+1333,1333,metaserver,EC2/NoColud-compatible metadata server,Go,4,5,Apache-2.0
+1334,1334,microdhcpd,DHCP server that talks GRPC,Go,7,4,Apache-2.0
+1335,1335,pubkeystore,SSH Pubkey Registry,Go,17,4,Apache-2.0
+1336,1336,unimorph,Açıklama yok,HTML,16,5,Lisans yok
+1337,1337,GL-Shader-Validator,Açıklama yok,Python,32,11,Lisans yok
+1338,1338,light-my-piano,Teaches you to play the piano by lighting up the piano key you need to press,Python,60,15,Apache-2.0
+1339,1339,jsaction,JsAction is a small event delegation library that decouples event binding from the code that can handle the event.,JavaScript,867,60,Apache-2.0
+1340,1340,grr_go_client,Açıklama yok,Go,2,5,Apache-2.0
+1341,1341,fury,Açıklama yok,Go,29,6,Apache-2.0
+1342,1342,gsa-admin-toolkit,Tools for common Google Search Appliance (GSA) administrative tasks,Python,36,38,Lisans yok
+1343,1343,ubntools,Tools to do fun things with ubiquity gear,Go,13,6,Apache-2.0
+1344,1344,grr_go_api_client,Açıklama yok,Go,2,3,Apache-2.0
+1345,1345,rttcp,Açıklama yok,Python,11,8,Apache-2.0
+1346,1346,huproxy,Açıklama yok,Go,203,21,Apache-2.0
+1347,1347,arithmancer,Logarithmic Market Scoring Rule Prediction Market,Python,42,23,Apache-2.0
+1348,1348,calblink,Blink(1) monitor for Google Calendar,Go,21,10,Apache-2.0
+1349,1349,functions-demo,Açıklama yok,JavaScript,1,7,Apache-2.0
+1350,1350,librato.dart,A Dart library to upload metrics data to librato.com.,Dart,2,5,BSD-3-Clause
+1351,1351,infra-structured-map,Açıklama yok,Java,3,6,Lisans yok
+1352,1352,packet-queue,Açıklama yok,Python,25,10,Apache-2.0
+1353,1353,easybundler,A code generator for Android Bundles,Java,49,15,Apache-2.0
+1354,1354,chkstream,Checked exception support in Java 8 streams via decorator.,Python,14,6,GPL-2.0
+1355,1355,glmmplus,Açıklama yok,R,7,7,Apache-2.0
+1356,1356,cluster-scheduler-simulator,Automatically exported from code.google.com/p/cluster-scheduler-simulator,Scala,117,52,BSD-3-Clause
+1357,1357,codeu_coding_assessment_2017,This project allows students to demonstrate their coding skills before entering CodeU. Students will complete this JSON-lite object and JSON-lite parser.,Java,5,108,Apache-2.0
+1358,1358,address-geocoder-js,Açıklama yok,HTML,4,9,Apache-2.0
+1359,1359,classp,Classp -- a classier way to parse,Bison,168,18,Apache-2.0
+1360,1360,xmpmeta,Açıklama yok,C++,13,10,Apache-2.0
+1361,1361,amp-pwa-demo,"A simple, dependency-free blog that uses a Progressive Web App (PWA) to show Accellerated Mobile Pages (AMP).",JavaScript,95,32,Apache-2.0
+1362,1362,Zhi,Interactive LaTeX Paper Writing in Google Drive,Python,24,10,Apache-2.0
+1363,1363,agata,A simple UI layer for visualizing Google Analytics v4 hits on Android apps,JavaScript,6,7,Apache-2.0
+1364,1364,prerender-test,Açıklama yok,JavaScript,12,11,Apache-2.0
+1365,1365,audit-normalmap,Açıklama yok,C,6,6,Apache-2.0
+1366,1366,varstruct,Açıklama yok,C++,17,10,Apache-2.0
+1367,1367,emre,Açıklama yok,C++,5,5,Apache-2.0
+1368,1368,google-apputils,Please use https://github.com/abseil/abseil-py instead. This was auto-exported from code.google.com/p/google-apputils-python,Python,29,22,Apache-2.0
+1369,1369,simple-reinforcement-learning,Açıklama yok,Python,51,21,Apache-2.0
+1370,1370,homebrew-google-authenticator,Açıklama yok,Ruby,23,11,Apache-2.0
+1371,1371,request-test,Açıklama yok,Python,3,5,Apache-2.0
+1372,1372,beautiful-audio-editor,An experimental audio editor that runs on JavaScript and the Web Audio API.,JavaScript,52,18,Apache-2.0
+1373,1373,voyager,"Voyager is a Chrome app designed to connect learners with educational, inspirational, and aspirational content from around the world.",JavaScript,8,9,Apache-2.0
+1374,1374,blockly-repo,Açıklama yok,Dil yok,4,6,Lisans yok
+1375,1375,pindrop,C++ cross-platform game audio library,C++,122,26,Apache-2.0
+1376,1376,bgu,Açıklama yok,C++,86,28,Apache-2.0
+1377,1377,goldfinch,Açıklama yok,Dil yok,49,13,Lisans yok
+1378,1378,scene_lab,Embedded World Editor Library for Game Developers,C++,52,15,Apache-2.0
+1379,1379,breadboard,C++ graph based event system,C++,98,21,Apache-2.0
+1380,1380,corgi,C++ entity-component system,C++,222,33,Apache-2.0
+1381,1381,dropzone-polyfill,Polyfill for the removed HTML5 dropzone attribute,HTML,2,5,Apache-2.0
+1382,1382,ot-crdt-papers,Açıklama yok,JavaScript,205,27,Apache-2.0
+1383,1383,easypki,Creating a certificate authority the easy way,Go,496,82,Apache-2.0
+1384,1384,windowtester,Automatically exported from code.google.com/p/windowtester,Java,14,19,Lisans yok
+1385,1385,fpc,FPC calculates information to be used in fixed-point integer calculations,C,21,5,Apache-2.0
+1386,1386,fchan-go,Experimental channel implementation,Go,314,18,Apache-2.0
+1387,1387,ngx_token_binding,NGINX module for Token Binding,C,37,15,Apache-2.0
+1388,1388,xdelta3-decoder-js,Açıklama yok,C,9,5,Apache-2.0
+1389,1389,appengine-phabricator,Image for running Phabricator on App Engine,Shell,16,10,Apache-2.0
+1390,1390,cpp-frp,Static functional reactive programming in C++14,C++,44,15,Apache-2.0
+1391,1391,gtm-http-fetcher,Google Toolbox for Mac - HTTP Fetcher,Objective-C,54,26,Apache-2.0
+1392,1392,yang_vocoder,Açıklama yok,MATLAB,86,28,Apache-2.0
+1393,1393,keystone,A software architectural modeling tool for programmers.,Elm,23,6,Apache-2.0
+1394,1394,adapt-googleanalytics,Açıklama yok,JavaScript,3,6,Lisans yok
+1395,1395,brailleback,Açıklama yok,Java,21,20,Apache-2.0
+1396,1396,deepboost,Açıklama yok,C++,151,58,Apache-2.0
+1397,1397,mcic-coco,Açıklama yok,Dil yok,19,9,Lisans yok
+1398,1398,readahead,readahead is a package that provides readers that enable concurrent reads from seekable or compressed files,Go,126,6,Apache-2.0
+1399,1399,source_transformer.dart,Patterns for easily re-writing source code,Dart,6,5,BSD-3-Clause
+1400,1400,mcafp,Açıklama yok,Python,38,13,Apache-2.0
+1401,1401,gtm-oauth,Google Toolbox for Mac - OAuth Controllers,Objective-C,20,26,Apache-2.0
+1402,1402,morphie,A tool for data analysis with graphs.,C++,22,10,Apache-2.0
+1403,1403,libgep,"Generic, Protobuf-Based Client-Server Protocol",C++,43,19,Apache-2.0
+1404,1404,smilesparser,Açıklama yok,Python,10,7,Apache-2.0
+1405,1405,squidwarden,Frontend to squid to manage ACLs,Go,49,9,Apache-2.0
+1406,1406,built_json.dart,"Deleted, use built_value instead.",BSD-3-Clause,16,10,Lisans yok
+1407,1407,conferenceDB,Açıklama yok,HTML,6,7,Apache-2.0
+1408,1408,indexable-pwa-samples,A sample ExpressJS PWA that explores and demonstrates the best practices for implementing a PWA in regards to indexability of content.,JavaScript,50,16,Apache-2.0
+1409,1409,enum_class.dart,"Deleted, use built_value instead.",BSD-3-Clause,12,10,Lisans yok
+1410,1410,sass_generator,Açıklama yok,0,0,2,Lisans yok
+1411,1411,vpn-reverse-tether,"VPN-based USB ""reverse tether""",C,135,56,Apache-2.0
+1412,1412,protocall,protocall is an experimental programming language,Python,7,6,Apache-2.0
+1413,1413,transliteration,Transliteration data and models,Dil yok,29,19,Lisans yok
+1414,1414,power-traces,Açıklama yok,Protocol Buffer,5,6,CC-BY-4.0
+1415,1415,indexed-db-as-promised,"A thin wrapper around IndexedDB, making it much more pleasant",JavaScript,19,5,Apache-2.0
+1416,1416,gotrace,Açıklama yok,0,0,19,Lisans yok
+1417,1417,cxx-std-draft,C++ standards drafts,TeX,43,566,Lisans yok
+1418,1418,cameraraw,Açıklama yok,Go,19,7,BSD-3-Clause
+1419,1419,everythingisconnected,A Wikidata puzzle game,JavaScript,11,5,Apache-2.0
+1420,1420,libkml,Reference implementation of OGC KML 2.2,C++,66,56,Lisans yok
+1421,1421,martian-java,Configure a Martian Proxy from Java,Java,7,8,Apache-2.0
+1422,1422,geovelo,Açıklama yok,JavaScript,35,15,Apache-2.0
+1423,1423,gfw-toolkit,Enterprise command-line scripts and samples for Google Apps Admin SDK.,Python,27,16,Apache-2.0
+1424,1424,googleapps-message-recall,Açıklama yok,Python,15,18,Apache-2.0
+1425,1425,macops-MOMenu,MOMenu is a statusbar item with a plug-in architecture.,Objective-C,42,9,Apache-2.0
+1426,1426,dart2java,Açıklama yok,Java,41,10,Apache-2.0
+1427,1427,param_runner,Açıklama yok,Shell,2,4,Apache-2.0
+1428,1428,gde-speakersbureau,Açıklama yok,JavaScript,4,8,Lisans yok
+1429,1429,AppUpdateTrackerLib,Açıklama yok,Java,5,8,Apache-2.0
+1430,1430,rustcxx,rustcxx: Using C++ from Rust made easy,Rust,420,16,Apache-2.0
+1431,1431,dualhttp,"Render your page with cached data, then fetch up-to-date data from server and update the page.",JavaScript,16,6,Apache-2.0
+1432,1432,go-webdav,Açıklama yok,Go,49,15,Lisans yok
+1433,1433,dorusu-js,This repository is no longer maintained. Please see https://github.com/grpc/grpc-node which is now aims to provide a pure js gRPC library as well.,JavaScript,38,15,BSD-3-Clause
+1434,1434,font-go,Açıklama yok,Go,44,3,Apache-2.0
+1435,1435,identity-toolkit-go-client,Google identity Toolkit client library for Go,Go,54,18,Apache-2.0
+1436,1436,dynamex-proto,Açıklama yok,Protocol Buffer,3,4,Apache-2.0
+1437,1437,auto-common,Açıklama yok,0,0,2,Lisans yok
+1438,1438,auto-service,Açıklama yok,0,0,2,Lisans yok
+1439,1439,auto-factory,Açıklama yok,0,0,2,Lisans yok
+1440,1440,prudaq,PRUDAQ is an open source 40MSPS (megasamples per second) Data Acquisition board for the Beaglebone Black/Green,Eagle,106,27,Apache-2.0
+1441,1441,realtime-help,Açıklama yok,Python,19,12,Apache-2.0
+1442,1442,pepper.js,Pepper applications as Native Client or JavaScript,JavaScript,324,51,Lisans yok
+1443,1443,instant-hangouts,Easily add Google+ Hangouts to any web page.,JavaScript,189,50,Apache-2.0
+1444,1444,LiquidFunPaint,Açıklama yok,Java,141,53,Apache-2.0
+1445,1445,easy-gwt-mock,An EasyMock-like Mocking Framework for Google Web Toolkit,Java,10,7,Apache-2.0
+1446,1446,gofountain,Açıklama yok,Go,84,16,Apache-2.0
+1447,1447,VoltAir,Açıklama yok,C++,304,89,Apache-2.0
+1448,1448,bzip2-rpc,Experiments in converting bzip2 API to be RPC-based,C,10,11,Lisans yok
+1449,1449,gipfeli,Açıklama yok,C++,97,17,Lisans yok
+1450,1450,go-circuits,Açıklama yok,Go,14,5,Apache-2.0
+1451,1451,rpki-mgmt,Açıklama yok,Puppet,3,8,Apache-2.0
+1452,1452,simplecfg,Simple CFG module for ExtendJ,Java,7,8,Apache-2.0
+1453,1453,maketrace,Açıklama yok,C++,18,10,Apache-2.0
+1454,1454,Chrome.Docs,"Temporary documentation for developer features in the Chrome beta, canary, and dev channels.",JavaScript,22,8,Apache-2.0
+1455,1455,bluesky-watchface,Açıklama yok,C,8,5,Apache-2.0
+1456,1456,slowfs,A FUSE filesystem written in Go to simulate physical media for testing purposes,Go,42,6,Apache-2.0
+1457,1457,arc-jazzy-linter,A jazzy linter for use with Phabricator's arc command line tool.,PHP,14,6,Apache-2.0
+1458,1458,merge_pyi,Açıklama yok,Python,11,7,Apache-2.0
+1459,1459,drone-firebase,Drone plugin to deploy a project to Firebase.,Go,8,13,Apache-2.0
+1460,1460,cncmicroscope-cad,"CNC MIcroscope CAD files. This is not an official Google product (experimental or otherwise), it is just code that happens to be owned by Google.”",OpenSCAD,12,7,Lisans yok
+1461,1461,access-bridge-explorer,Explore accessibility tree of Java Access Bridge enabled applications,C#,53,24,Apache-2.0
+1462,1462,gitwf,Açıklama yok,0,0,1,Lisans yok
+1463,1463,openssl-tests,Running BoringSSL tests against OpenSSL,Makefile,9,12,Apache-2.0
+1464,1464,rfmt,R source code formatter,Python,70,15,Apache-2.0
+1465,1465,arc-proselint,A proselint linter for use with Phabricator's arc command line tool.,PHP,9,7,Apache-2.0
+1466,1466,channel-id-enclave,Stores Chromium Channel ID private keys in an Intel SGX enclave.,Dil yok,25,9,Lisans yok
+1467,1467,generator-goro,Açıklama yok,JavaScript,21,9,Apache-2.0
+1468,1468,xpaf,Açıklama yok,C++,111,49,Apache-2.0
+1469,1469,google-empty-test-module,Açıklama yok,0,0,1,Lisans yok
+1470,1470,cloud-reporting,Açıklama yok,Java,6,7,Apache-2.0
+1471,1471,reagera,"Minimal implementation of predictable state in Java, inspired by Elm and Redux.",Java,10,4,Apache-2.0
+1472,1472,py-decorators-tutorial,Açıklama yok,Jupyter Notebook,22,10,Apache-2.0
+1473,1473,identity-toolkit-node-client,Google Identity Toolkit client library for Node.js,JavaScript,26,18,Apache-2.0
+1474,1474,GOS-conventions,A convention for Objective-C libraries.,Shell,4,9,Apache-2.0
+1475,1475,identity-toolkit-java-client,Google Identity Toolkit client library for Java,Java,33,32,Apache-2.0
+1476,1476,jalic,Açıklama yok,C,9,7,Lisans yok
+1477,1477,arc-regex-line-length-linter,A configurable line length linter for use with Phabricator's arc command line tool.,PHP,4,4,Apache-2.0
+1478,1478,android-arscblamer,"ArscBlamer is a command-line tool that can parse an Android app's resources.arsc file and extract useful, actionable information about its contents",Java,681,66,Apache-2.0
+1479,1479,identity-toolkit-ruby-client,Google Identity Toolkit client library for Ruby,Ruby,8,10,Apache-2.0
+1480,1480,qrisp,Açıklama yok,C++,8,8,Apache-2.0
+1481,1481,file-system-stress-testing,A tool that can be used to stress test POSIX filesystems.,C,62,20,Apache-2.0
+1482,1482,linux-sensor,Açıklama yok,C,25,12,GPL-2.0
+1483,1483,multibox,Açıklama yok,Dil yok,306,102,Lisans yok
+1484,1484,offline-content-packager,"**This is not an official Google product.** - Nkata is the Nigerian Igbo word for ""basket"". This is a content packaging tool, a configurable script that takes inputed media such as text and video, creates HTML shell pages around them, and bundles them into a navigable web-like experience with an index for use in an education setting without an I…",Dil yok,26,23,Lisans yok
+1485,1485,crush-tools,Automatically exported from code.google.com/p/crush-tools,Shell,127,22,Apache-2.0
+1486,1486,tcpauth,Açıklama yok,C,30,21,Apache-2.0
+1487,1487,flutter-data,Açıklama yok,Dart,6,4,BSD-3-Clause
+1488,1488,resolver-library,Automatically exported from code.google.com/p/resolver-library,Python,5,6,Lisans yok
+1489,1489,hops,Automatically exported from code.google.com/p/hops,C++,4,8,Apache-2.0
+1490,1490,kythe-cloud9,A kythe plugin for cloud9 IDE.,JavaScript,4,3,Apache-2.0
+1491,1491,physical-web-core,Açıklama yok,0,0,1,Lisans yok
+1492,1492,flooefi,Açıklama yok,0,0,6,Lisans yok
+1493,1493,stress_transfer,Açıklama yok,Python,3,3,Lisans yok
+1494,1494,serialization.dart,A serialization library for Dart.,Dart,29,10,BSD-3-Clause
+1495,1495,templatekit,Açıklama yok,Objective-C,17,6,Apache-2.0
+1496,1496,metrosvg,Açıklama yok,C++,7,7,Apache-2.0
+1497,1497,paramgmt,A parallel SSH-based remote machine management system,Python,80,31,Apache-2.0
+1498,1498,pienoon,Multiplayer party game where you can throw pies at your friends.,C++,428,113,Lisans yok
+1499,1499,translation-cards,Note: Future development of Translation Cards migrated to https://github.com/translation-cards,Java,15,6,Apache-2.0
+1500,1500,topdown-btg-preordering,Top-Down BTG-based Preordering,C++,12,5,Apache-2.0
+1501,1501,openpgp-interop,Simple declarative test cases to read OpenPGP keys and messages generated by a variety of implementations.,Dil yok,5,6,Lisans yok
+1502,1502,appengine-codiad,Codiad(Cloud IDE) on Google App Engine,JavaScript,36,24,Apache-2.0
+1503,1503,godata,Açıklama yok,Go,23,6,Apache-2.0
+1504,1504,opentest4j,Open Test Alliance for the JVM,Java,3,30,Apache-2.0
+1505,1505,identity-toolkit-php-client,Google Identity Toolkit client library for PHP,PHP,33,24,Apache-2.0
+1506,1506,google-maven-parents,Automatically exported from code.google.com/p/google-maven-repository,Dil yok,2,5,Lisans yok
+1507,1507,identity-toolkit-python-client,Google Identity Toolkit client library for Python,Python,26,21,Apache-2.0
+1508,1508,Refaster,Açıklama yok,Java,52,12,Apache-2.0
+1509,1509,strabo,Açıklama yok,Elixir,56,7,Apache-2.0
+1510,1510,http2preload,"A Go package for manipulating HTTP/2 preload, supporting Google App Engine.",Go,18,4,Apache-2.0
+1511,1511,checkers_classic,Açıklama yok,Python,3,7,Apache-2.0
+1512,1512,climb-tracker,"Climbing tracker app for Android and Android Wear, using Firebase",Java,29,13,Apache-2.0
+1513,1513,node-nest,Açıklama yok,JavaScript,2,6,Apache-2.0
+1514,1514,intellij-cmdline-vcs-plugin,Açıklama yok,Java,2,4,Apache-2.0
+1515,1515,git-appraise-eclipse,Distributed code review for Eclipse,Java,29,10,EPL-1.0
+1516,1516,python-atfork,Açıklama yok,Python,13,14,Apache-2.0
+1517,1517,docopt-scripts,Açıklama yok,Go,3,5,Apache-2.0
+1518,1518,PS3ControllerAutoSleep,AppleScript turning off PS3 controller when Mac goes to sleep,AppleScript,4,7,Apache-2.0
+1519,1519,zeroshell-linode,Script for Zeroshell installation on Linode (Xen),Shell,8,8,Apache-2.0
+1520,1520,xpra-upstart,Upstart script for Xpra,Dil yok,2,6,Lisans yok
+1521,1521,steamkeysactivator,Activates a bulk of Steam keys on Mac OS X,AppleScript,21,11,Apache-2.0
+1522,1522,homebrew-xpra,Homebrew tap for Xpra,Ruby,7,10,Apache-2.0
+1523,1523,shipshape-demo,Açıklama yok,Python,2,5,Apache-2.0
+1524,1524,hashing-demo,Sample implementation of a proposed C++ hashing framework,C++,26,13,Apache-2.0
+1525,1525,autopiper,Açıklama yok,C++,38,11,Apache-2.0
+1526,1526,inception,Açıklama yok,Dil yok,846,171,Lisans yok
+1527,1527,clang-lens,Açıklama yok,Haskell,17,4,Apache-2.0
+1528,1528,crisis-info-hub,Açıklama yok,JavaScript,33,11,Apache-2.0
+1529,1529,dart-immutables,Açıklama yok,Dart,2,4,Apache-2.0
+1530,1530,streamhtmlparser,Automatically exported from code.google.com/p/streamhtmlparser,C,8,12,BSD-3-Clause
+1531,1531,pods-helper,Açıklama yok,Objective-C,3,5,Apache-2.0
+1532,1532,cluster-insight,Açıklama yok,Python,96,28,Apache-2.0
+1533,1533,freebase-wikidata-converter,Açıklama yok,PHP,43,19,Apache-2.0
+1534,1534,snappy-start,Tool for launching a Linux process from a snapshot,C,398,21,BSD-3-Clause
+1535,1535,capsicum-man-pages,Man page updates for Capsicum on Linux,Groff,6,5,Lisans yok
+1536,1536,rust-multihash,Açıklama yok,Rust,44,8,Apache-2.0
+1537,1537,last-fm-dashboard,visualize last.fm scrobbles over time,JavaScript,11,10,Lisans yok
+1538,1538,organ-donor-app,Açıklama yok,0,0,1,Lisans yok
+1539,1539,trace-viewer,Açıklama yok,Dil yok,471,75,Lisans yok
+1540,1540,rowhammer-test,Test DRAM for bit flips caused by the rowhammer problem,C++,776,169,Apache-2.0
+1541,1541,ferret,Açıklama yok,Java,5,10,Apache-2.0
+1542,1542,module-server,module-server,JavaScript,573,49,Apache-2.0
+1543,1543,autoparse,A dynamically generated parsing system using JSON Schema.,Ruby,139,35,Apache-2.0
+1544,1544,android-studio-check,Açıklama yok,Java,11,8,Lisans yok
+1545,1545,chromeos-filesystems,Additional file system providers for Chrome OS,JavaScript,117,31,BSD-3-Clause
+1546,1546,googlecrisismap,"Create, publish, and share maps by combining layers from anywhere on the web.",JavaScript,33,23,Apache-2.0
+1547,1547,gojiraw,GO JIffy-fast RAW-draw,Go,12,6,Apache-2.0
+1548,1548,terminal-py,Automatically exported from code.google.com/p/terminal-py,Python,7,7,Apache-2.0
+1549,1549,lmctfy,"lmctfy is the open source version of Google’s container stack, which provides Linux application containers.",C++,"3,265",234,Lisans yok
+1550,1550,dart-shapeshift,Açıklama yok,Dart,10,11,Apache-2.0
+1551,1551,calenviroscreen,Açıklama yok,R,5,5,Apache-2.0
+1552,1552,cncmicroscope-code,Açıklama yok,C++,12,8,Apache-2.0
+1553,1553,o3dtoydefense,Automatically exported from code.google.com/p/o3dtoydefense,JavaScript,5,4,Lisans yok
+1554,1554,epr,Açıklama yok,JavaScript,12,6,Apache-2.0
+1555,1555,codename-mvsv,Automatically exported from code.google.com/p/codename-mvsv,JavaScript,4,5,Lisans yok
+1556,1556,io-captions-gadget,Automatically exported from code.google.com/p/io-captions-gadget,Python,2,6,Lisans yok
+1557,1557,ytstatistics-demo,Automatically exported from code.google.com/p/ytstatistics-demo,Java,4,8,Lisans yok
+1558,1558,java-sourcetools,Automatically exported from code.google.com/p/java-sourcetools,Java,4,11,Lisans yok
+1559,1559,web_notifications.dart,Açıklama yok,Dart,10,7,BSD-3-Clause
+1560,1560,sensei,Logistic regression engine for medium-sized data,C++,49,15,Apache-2.0
+1561,1561,comid,CodeMirror in Dart,Dart,11,12,MIT
+1562,1562,service_worker.dart,An implementation of service workers in Dart,Dart,8,6,BSD-3-Clause
+1563,1563,infact,Provides a lightweight interpreter and factory for dynamically creating C++ objects at runtime.,C++,60,21,BSD-3-Clause
+1564,1564,google-visualization-issues,Açıklama yok,Dil yok,255,26,Lisans yok
+1565,1565,dart-doc_coverage,Açıklama yok,Dart,4,6,Apache-2.0
+1566,1566,voter-info-tool,Automatically exported from code.google.com/p/voter-info-tool,JavaScript,6,6,Apache-2.0
+1567,1567,angular_node_bind.dart,Utilities to allow Angular templates to use Node.bind(),Dart,22,15,Lisans yok
+1568,1568,chrome-language-immersion,Experience a new language while you browse the web.,JavaScript,32,21,Apache-2.0
+1569,1569,app-resource-bundle,Açıklama yok,JavaScript,43,12,Apache-2.0
+1570,1570,coursebuilder_xblock_module,Açıklama yok,Python,14,10,Apache-2.0
+1571,1571,py-html-contextual-escaping,Automatically exported from code.google.com/p/py-html-contextual-escaping,Python,2,4,Lisans yok
+1572,1572,json-sans-eval,Automatically exported from code.google.com/p/json-sans-eval,HTML,5,6,Lisans yok
+1573,1573,mysql-tools,Açıklama yok,Python,172,74,Apache-2.0
+1574,1574,refr,A framework for building reranking models.,C++,21,10,BSD-3-Clause
+1575,1575,gwteventbinder,Making GWT EventBus easy,Java,142,29,Apache-2.0
+1576,1576,coursebuilder-hello-world-module,Açıklama yok,Python,5,6,Apache-2.0
+1577,1577,dart-emacs-plugin-unsupported,Unsupported,Emacs Lisp,6,6,BSD-3-Clause
+1578,1578,older-mirrored-patches,Google's older mirrored patches and tarballs that used to live at http://code.google.com/opensource/patches.html,Dil yok,1,5,Lisans yok
+1579,1579,tritious,Açıklama yok,JavaScript,2,5,Apache-2.0
+1580,1580,objectfilter,Automatically exported from code.google.com/p/objectfilter,Python,2,6,Apache-2.0
+1581,1581,retrofit,"Type-safe REST client for Android and Java by Square, Inc.",Java,42,"6,419",Apache-2.0
+1582,1582,traceout,Açıklama yok,Go,14,8,Apache-2.0
+1583,1583,nfc-smart-tag,Automatically exported from code.google.com/p/nfc-smart-tag,Java,10,7,Apache-2.0
+1584,1584,irrduino,Irrduino is an Arduino-based irrigation control system.,Processing,43,17,Apache-2.0
+1585,1585,reportlatency,Automatically exported from code.google.com/p/reportlatency,Perl,3,4,Apache-2.0
+1586,1586,securemessage,Açıklama yok,C++,59,25,Lisans yok
+1587,1587,gmailsnooze,Açıklama yok,JavaScript,13,8,Apache-2.0
+1588,1588,deliberate,Açıklama yok,0,0,1,Lisans yok
+1589,1589,network-visualizer-x,Açıklama yok,0,0,3,Lisans yok
+1590,1590,reboot-somalia,Açıklama yok,0,0,1,Lisans yok
+1591,1591,citizen-x,Açıklama yok,0,0,2,Lisans yok
+1592,1592,pytypedecl,Açıklama yok,Python,63,12,Lisans yok
+1593,1593,rysim,RySim is a set of implementations of a simple SEIR simulation system,Erlang,2,8,Apache-2.0
+1594,1594,jsontoken-tmp,Açıklama yok,0,0,1,Lisans yok
+1595,1595,go-shlex,Açıklama yok,0,0,3,Lisans yok
+1596,1596,zarathustra,Açıklama yok,Java,13,9,Apache-2.0
+1597,1597,pull-request-mailer,Sends a GitHub pull request as a patch series via email,Haskell,31,11,BSD-3-Clause
+1598,1598,elfling,Açıklama yok,C++,21,12,Apache-2.0
+1599,1599,i18n_sanitycheck,Açıklama yok,Java,9,7,Apache-2.0
+1600,1600,vim-ft-vroom,Açıklama yok,Vim script,9,9,Apache-2.0
+1601,1601,picview-for-android,Açıklama yok,Java,49,31,Apache-2.0
+1602,1602,picasa-app-demo,Açıklama yok,Java,7,9,Lisans yok
+1603,1603,web-starter-kit-extras,Optional additions to Web Starter Kit,Dil yok,75,25,Lisans yok
+1604,1604,simple-pedometer,Açıklama yok,Java,60,50,Apache-2.0
+1605,1605,sensor-data-collection-library,Açıklama yok,Java,40,19,Apache-2.0
+1606,1606,ashier,Automating Terminal Interactions with Templates,Python,22,8,Apache-2.0
+1607,1607,coursebuilder-lti-module,Açıklama yok,Python,11,6,Apache-2.0
+1608,1608,episodes.dart,A framework for timing performance of web apps.,Dart,12,22,BSD-3-Clause
+1609,1609,polymer-dart-log-controller,"A small polymer element which lets you control the global logging configuration, and can optionally log all statements to the console.",Dart,6,11,Lisans yok
+1610,1610,ebola-tools,Açıklama yok,Python,13,9,Apache-2.0
+1611,1611,pubsubhubbub,Açıklama yok,0,0,3,Lisans yok
+1612,1612,dart-tagtree,A React-like UI framework in Dart,Dart,73,11,Apache-2.0
+1613,1613,py-ast-utils,Açıklama yok,Python,14,7,Apache-2.0
+1614,1614,turing-doodle,Açıklama yok,JavaScript,127,63,Apache-2.0
+1615,1615,linear-book-scanner,Açıklama yok,Python,45,27,Apache-2.0
+1616,1616,java-thread-sanitizer,Açıklama yok,Java,56,29,Apache-2.0
+1617,1617,gin,Açıklama yok,0,0,2,Lisans yok
+1618,1618,go-glicko2,Açıklama yok,0,0,3,Lisans yok
+1619,1619,rct-automation,Radio automation software (not an official google product),C++,17,11,Apache-2.0
+1620,1620,Idris-dev,A Dependently Typed Functional Programming Language,Haskell,4,659,Lisans yok
+1621,1621,forcefield,Keep email out of your inbox when you're not at work.,Gosu,43,12,Apache-2.0
+1622,1622,dart-gif-encoder,Açıklama yok,Dart,16,14,Apache-2.0
+1623,1623,glassbox,Açıklama yok,R,16,12,Apache-2.0
+1624,1624,coursebuilder-learning-analytics,Açıklama yok,0,0,2,Lisans yok
+1625,1625,NLSdata,Açıklama yok,R,6,9,Apache-2.0
+1626,1626,jenkins-flaky-test-report,Açıklama yok,0,0,3,Lisans yok
+1627,1627,build-debian-cloud,Script to create Debian Squeeze & Wheezy Amazon Machine Images (AMIs) and Google Compute Engine images,Python,32,126,Lisans yok
+1628,1628,dart-collab,An operational transform library for Dart,Dart,31,21,Apache-2.0
+1629,1629,wheelbarrow,Açıklama yok,Python,10,9,Lisans yok
+1630,1630,ct-hackday-schwag,"May 7th, 2014 Certificate Transparency Hack Day",Go,8,6,Apache-2.0
+1631,1631,photo-sphere,Açıklama yok,0,0,1,Lisans yok
+1632,1632,oss-bench,Açıklama yok,Dil yok,4,6,Lisans yok
+1633,1633,heartbleed-burp-extension,Açıklama yok,Java,15,8,Apache-2.0
+1634,1634,lab_device_proxy,Executes adb and idevice commands on a remote host.,Python,26,9,Lisans yok
+1635,1635,gdal-autotest2,Açıklama yok,0,0,1,Lisans yok
+1636,1636,patchfield,Audio infrastructure for Android,Java,272,37,Apache-2.0
+1637,1637,googleapps-password-generator,Açıklama yok,Dil yok,22,26,Lisans yok
+1638,1638,YouCompleteSubl,Açıklama yok,0,0,2,Lisans yok
+1639,1639,favcolor-findidp,Açıklama yok,Dil yok,2,7,Lisans yok
+1640,1640,appengine_xblock_runtime,Açıklama yok,Python,16,13,Apache-2.0
+1641,1641,memcache-collections,"Concurrent, distributed data structures on top of memcache",Python,62,26,Apache-2.0
+1642,1642,course-builder,Açıklama yok,0,0,2,Lisans yok
+1643,1643,favcolor-android,Açıklama yok,Java,37,19,Lisans yok
+1644,1644,favcolor-server,Açıklama yok,Ruby,4,7,Lisans yok
+1645,1645,systemjs,A minimal System loader,JavaScript,61,17,MIT
+1646,1646,favcolor-ios,Açıklama yok,0,0,2,Lisans yok
+1647,1647,pixelcycle-sample-app,Açıklama yok,Dart,8,10,Apache-2.0
+1648,1648,open-gantry,Açıklama yok,CSS,7,11,Lisans yok
+1649,1649,container-rfc,An RFC for a standard container format,Dil yok,10,19,Lisans yok
+1650,1650,gae-channel-api.dart,App Engine Channel API for Dart,Dart,8,10,Apache-2.0
+1651,1651,ChannelPlate,JavaScript library for postMessage over MessageChannel,JavaScript,16,10,Lisans yok
+1652,1652,testRunner,testRunner,JavaScript,7,9,Lisans yok
+1653,1653,devtoolsExtended,devtoolsExtended: Extended Chrome Devtools in a Chrome Extension,JavaScript,61,23,Lisans yok
+1654,1654,self-hosted-rss-to-email,Açıklama yok,Go,25,13,Apache-2.0
+1655,1655,zimu,Açıklama yok,C,4,8,Apache-2.0
+1656,1656,tsviewdb,High-performance storage and graphing web service for time-series of time-series.,JavaScript,118,25,Apache-2.0
+1657,1657,beta-binomial-fitting,Açıklama yok,0,1,3,Lisans yok
+1658,1658,wiberg-minimization,Açıklama yok,Dil yok,16,12,Lisans yok
+1659,1659,crx2app,Açıklama yok,JavaScript,17,12,Lisans yok
+1660,1660,concatenate.js,Açıklama yok,JavaScript,93,23,Apache-2.0
+1661,1661,firmata.py,Açıklama yok,Python,15,15,Apache-2.0
+1662,1662,sirius,sirius,0,1,4,Lisans yok
+1663,1663,embed-dart-vm,Açıklama yok,C++,67,22,Lisans yok
+1664,1664,CSP-Validator,CSP-Validator,Python,19,13,Lisans yok
+1665,1665,gitkit-ruby,Açıklama yok,0,2,9,Lisans yok
